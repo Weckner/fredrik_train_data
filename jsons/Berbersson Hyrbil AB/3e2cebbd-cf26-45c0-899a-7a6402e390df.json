@@ -1,0 +1,79 @@
+{
+    "payee": {
+        "email": "Stockholmc@rentawreck.se",
+        "org_id": "559215-2333",
+        "vat_id": "SE5592152333301",
+        "address": {
+            "address_line": "Berbersson Hyrbil AB",
+            "street": "Heimdalsgatan 42",
+            "zip": "19550",
+            "city": "MÄRSTA",
+            "country": "Sverige"
+            
+        },
+        "telephone": "0769381619",
+        "financial_accounts": [
+            {
+                "id": "5020-7042",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-02-10",
+    "invoice_id": "2201",
+    "issue_date": "2024-01-11",
+    "payment_id": "56899946169743",
+    "customer_id": "487",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Hyra av Lastbil HNJ135",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "1049.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1049.00"
+        },
+        {
+            "item": {
+                "name": "Försäkring",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "240.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "240.00"
+        },
+        {
+            "item": {
+                "name": "Tankning - Diesel",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "100.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "100.00"
+        }
+    ],
+    "payment_terms": "30 dagar",
+    "buyer_reference": "Victor Bohlin",
+    "allowance_charges": [
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Frakt"
+        }
+    ],
+    "supplier_reference": "Djamel Hamtouche",
+    "legal_monetary_total": {
+        "tax_amount": "287.25",
+        "payable_amount": "1676.00",
+        "tax_exclusive_amount": "1389.00",
+        "payable_rounding_amount": "-0.25"
+    }
+}

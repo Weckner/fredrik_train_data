@@ -1,0 +1,111 @@
+{
+    "payee": {
+        "web": "www.vinovativa.se",
+        "email": "order@vinovativa.se",
+        "org_id": "556657-5436",
+        "vat_id": "SE556657543601",
+        "address": {
+            "address_line": "Vinovativa AB",
+            "street": "Tegnérgatan 34",
+            "zip": "113 59",
+            "city": "STOCKHOLM"
+        },
+        "telephone": "08-444 61 70",
+        "financial_accounts": [
+            {
+                "id": "5689-7804",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "",
+                "type": "Plusgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Nobis Hotel",
+          "street": "Smålandsgatan 9, portkamera",
+          "zip": "111 46",
+          "city": "STOCKHOLM",
+        "actual_delivery_date": "2024-01-24"
+        }
+    },
+    "due_date": "2024-02-23",
+    "invoice_id": "1060930",
+    "issue_date": "2024-01-24",
+    "customer_id": "102987",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "LA CREMA SARALEES RUSSIAN RIVER CHARDO",
+                "sellers_item_identification": "999018301"
+            },
+            "price": {
+                "amount": "429.00"
+            },
+            "invoiced_quantity": "12.00",
+            "line_extension_amount": "5148.00"
+        },
+        {
+            "item": {
+                "name": "IL FAVOT LANGHE NEBBIOLO",
+                "sellers_item_identification": "9020469"
+            },
+            "price": {
+                "amount": "591.00"
+            },
+            "invoiced_quantity": "12.00",
+            "line_extension_amount": "7092.00"
+        },
+        {
+            "item": {
+                "name": "LANGHE ROSSO QUARTETTO 2019",
+                "sellers_item_identification": "999024601"
+            },
+            "price": {
+                "amount": "473.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "2838.00"
+        },
+        {
+            "item": {
+                "name": "STONESTREET ALEXANDER VALLEY CABERNE",
+                "additional_item_properties": [],
+                "sellers_item_identification": "7894401"
+            },
+            "price": {
+                "amount": "599.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "3594.00"
+        },
+        {
+            "item": {
+                "name": "MONZINGER HALGANS RIESLING TROCKEN VE",
+                "sellers_item_identification": "7184101"
+            },
+            "price": {
+                "amount": "239.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "1974.00"
+        }
+    ],
+    "payment_terms": "30 dgr netto",
+    "buyer_reference": "Kristian Deja",
+    "order_reference": {
+        "id": "Therese",
+        "supplier_id": "3440887"
+    },
+    "supplier_reference": "Therese Tallgren",
+    "legal_monetary_total": {
+        "tax_amount": "5161.50",
+        "payable_amount": "25808.00",
+        "payable_rounding_amount": "0.50",
+        "taxable_amount": "20646.00"
+    },
+    "document_currency_code": "SEK"
+}

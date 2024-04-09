@@ -1,0 +1,93 @@
+{
+    "payee": {
+        "web": "",
+        "email": "",
+        "org_id": "",
+        "vat_id": "",
+        "address": {
+            "address_line": "",
+            "street": "",
+            "zip": "",
+            "city": "",
+            "country": ""
+            
+        },
+        "telephone": "",
+        "financial_accounts": [
+            {
+                "id": "",
+                "type": ""
+            },
+            {
+                "id": "",
+                "type": "",
+                "additional_id": ""
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "",
+          "additional_line": "",
+          "street": "",
+          "additional_street": "",
+          "zip": "",
+          "city": "",
+          "country": "",
+        "actual_delivery_date": "",
+        "name": ""
+        }
+    },
+    "due_date": "",
+    "invoice_id": "",
+    "issue_date": "",
+    "payment_id": "",
+    "tax_totals": [
+        {
+            "tax_amount": "",
+            "tax_percent": "",
+            "taxable_amount": ""
+        }
+    ],
+    "customer_id": "",
+    "document_type": "",
+    "invoice_lines": [
+        {
+            "line_id": "",
+            "item": {
+                "name": "",
+                "additional_item_properties": [],
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "unit": "",
+                "amount": ""
+            },
+            "allowance_charges": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "",
+            "line_extension_amount": ""
+        }
+    ],
+    "payment_terms": "",
+    "buyer_reference": "",
+    "order_reference": {
+        "id": "",
+        "supplier_id": ""
+    },
+    "allowance_charges": [
+        {
+            "amount": "",
+            "charge": true,
+            "reason": ""
+        }
+    ],
+    "supplier_reference": "",
+    "legal_monetary_total": {
+        "tax_amount": "",
+        "payable_amount": "",
+        "tax_exclusive_amount": "",
+        "line_extension_amount": "",
+        "payable_rounding_amount": ""
+    },
+    "document_currency_code": ""
+}

@@ -1,0 +1,74 @@
+{
+    "payee": {
+        "web": "www.carovin.se",
+        "email": "Ekonomi@oenoforos.se",
+        "org_id": "556672-8670",
+        "vat_id": "SE556672867001",
+        "address": {
+            "address_line": "Carovin AB ",
+            "street": "Box 24005",
+            "zip": "104 50",
+            "city": "STOCKHOLM",
+            "country": "Sverige"
+            
+        },
+        "telephone": "08-505 515 00",
+        "financial_accounts": [
+            {
+                "id": "5619-0127",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Miss Clara by Nobis",
+          "street": "LUNTMAKARGATAN 29",
+          "zip": "111 37",
+          "city": "STOCKHOLM",
+        "actual_delivery_date": "2023-12-07"
+        }
+    },
+    "due_date": "2024-01-07",
+    "invoice_id": "1079214",
+    "issue_date": "2023-12-08",
+    "customer_id": "3291",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Il Conte Montepul d´ Abru 375ml Eko",
+                "sellers_item_identification": "232202"
+            },
+            "price": {
+                "amount": "33.32"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "15.00"}],
+            "invoiced_quantity": "48.00",
+            "line_extension_amount": "1599.36"
+        },
+        {
+            "item": {
+                "name": "Leveransavgift",
+                "sellers_item_identification": "x1010"
+            },
+            "price": {
+                "amount": "450.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "450.00"
+        }
+    ],
+    "payment_terms": "30 dgr netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "supplier_id": "740969"
+    },
+    "supplier_reference": "Henrik Wendel",
+    "legal_monetary_total": {
+        "tax_amount": "512.34",
+        "payable_amount": "2562.00",
+        "tax_exclusive_amount": "2049.36",
+        "payable_rounding_amount": "0.30"
+    }
+}

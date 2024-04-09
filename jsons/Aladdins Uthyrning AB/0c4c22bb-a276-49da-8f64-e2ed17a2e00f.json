@@ -1,0 +1,191 @@
+{
+    "payee": {
+        "vat_id": "SE556316762501",
+        "address": {
+            "address_line": "Enhagsvägen 10",
+            "street": "Enhagsvägen 10",
+            "zip": "187 40",
+            "city": "TÄBY"
+            
+        },
+        "telephone": "08-664 20 00",
+        "financial_accounts": [
+            {
+                "id": "944-1049",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE1780000848061833109000",
+                "type": "IBAN",
+                "additional_id": "SWEDSESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Brunnsgatan 6",
+          "additional_line": "gatuplan, bur ok",
+          "street": "Brunnsgatan 6",
+          "additional_street": ""
+        }
+    },
+    "due_date": "2024-03-23",
+    "invoice_id": "9830-028286",
+    "issue_date": "2024-02-22",
+    "payment_id": "983002828629",
+    "customer_id": "35352",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Vinglas 23cl, prinsessa, normal"
+            },
+            "price": {
+                "amount": "4.80"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1296.00"
+        },
+        {
+            "item": {
+                "name": "Champangeglas, Prinsessa 15cl."
+            },
+            "price": {
+                "amount": "4.80"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1296.00"
+        },
+        {
+            "item": {
+                "name": "Skål, båtformad, mini. EN TRASIG"
+            },
+            "price": {
+                "amount": "7.14"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1927.00"
+        },
+        {
+            "item": {
+                "name": "Sked Varmrätt                  E"
+            },
+            "price": {
+                "amount": "4.80"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1296.00"
+        },
+        {
+            "item": {
+                "name": "Sked Dessert/ Tårta      ELEGAN"
+            },
+            "price": {
+                "amount": "4.80"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1296.00"
+        },
+        {
+            "item": {
+                "name": "Skål - portionsskål, vitt fältsp"
+            },
+            "price": {
+                "amount": "7.14"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "270.00",
+            "line_extension_amount": "1927.80"
+        },
+        {
+            "item": {
+                "name": "Kaffemugg med öra     25 cl  Neu"
+            },
+            "price": {
+                "amount": "5.58"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "60.00",
+            "line_extension_amount": "334.80"
+        },
+        {
+            "item": {
+                "name": "X minuter frakt, vardagar klocka"
+            },
+            "price": {
+                "amount": "13.33"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "126.00",
+            "line_extension_amount": "1679.58"
+        },
+        {
+            "item": {
+                "name": "Vinglas 23 cl, Prinsessa, normal"
+            },
+            "price": {
+                "amount": "35.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "35.00"
+        },
+        {
+            "item": {
+                "name": " Skål, våtformad, mini. EN TRASIG"
+            },
+            "price": {
+                "amount": "30.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "30.00"
+        },
+        {
+            "item": {
+                "name": "Sked    Varmrätt               E"
+            },
+            "price": {
+                "amount": "29.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "58.00"
+        },
+        {
+            "item": {
+                "name": "Sked    Dessert/ Tårta    ELEGAN"
+            },
+            "price": {
+                "amount": "22.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "22.00"
+        }
+    ],
+    "buyer_reference": "Sara Rörhed",
+    "order_reference": {
+        "id": "RESTAURANG GUTE"
+    },
+    "allowance_charges": [
+        {
+            "amount": "50.00",
+            "charge": true,
+            "reason": "Fakturaavgift"
+        }
+    ],
+    "legal_monetary_total": {
+        "tax_amount": "2812.25",
+        "payable_amount": "14061.00",
+        "line_extension_amount": "11248.98",
+        "taxable_amount": "11248.75",
+        "payable_rounding_amount": "-0.23"
+    },
+    "document_currency_code": "SEK"
+}
