@@ -3,7 +3,6 @@
         "vat_id": "SE556316762501",
         "address": {
             "address_line": "Enhagsvägen 10",
-            "street": "Enhagsvägen 10",
             "zip": "187 40",
             "city": "TÄBY"
             
@@ -18,16 +17,19 @@
                 "id": "SE1780000848061833109000",
                 "type": "IBAN",
                 "additional_id": "SWEDSESS"
+            },
+            {
+                "id": "1833109000",
+                "type": "local"
             }
         ]
     },
     "delivery":{
         "address":{
-          "address_line": "Brunnsgatan 6",
-          "additional_line": "gatuplan, bur ok",
-          "street": "Brunnsgatan 6",
-          "additional_street": ""
-        }
+          "address_line": "Brunnsgatan 6, gatuplan,bur ok",
+          "street": "Minskning/avbokning senas"
+        },
+        "name": ""
     },
     "due_date": "2024-03-23",
     "invoice_id": "9830-028286",
@@ -170,6 +172,8 @@
         }
     ],
     "buyer_reference": "Sara Rörhed",
+    "payment_terms": "",
+    "supplier_reference": "",
     "order_reference": {
         "id": "RESTAURANG GUTE"
     },
@@ -183,8 +187,7 @@
     "legal_monetary_total": {
         "tax_amount": "2812.25",
         "payable_amount": "14061.00",
-        "line_extension_amount": "11248.98",
-        "taxable_amount": "11248.75",
+        "tax_exclusive_amount": "11248.98",
         "payable_rounding_amount": "-0.23"
     },
     "document_currency_code": "SEK"

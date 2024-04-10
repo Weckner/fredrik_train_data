@@ -38,9 +38,9 @@
         }
     },
     "due_date": "2024-03-07",
-    "invoice_id": "",
-    "issue_date": "",
-    "payment_id": "",
+    "invoice_id": "44076-1003237",
+    "issue_date": "2024-02-06",
+    "payment_id": "44076000100323770",
     "tax_totals": [
         {
             "tax_amount": "",
@@ -48,8 +48,8 @@
             "taxable_amount": ""
         }
     ],
-    "customer_id": "",
-    "document_type": "",
+    "customer_id": "1001210",
+    "document_type": "380",
     "invoice_lines": [
         {
             "line_id": "",
@@ -73,20 +73,11 @@
         "id": "",
         "supplier_id": ""
     },
-    "allowance_charges": [
-        {
-            "amount": "",
-            "charge": true,
-            "reason": ""
-        }
-    ],
-    "supplier_reference": "",
     "legal_monetary_total": {
-        "tax_amount": "",
+        "tax_amount": "12.25",
         "payable_amount": "61.00",
-        "tax_exclusive_amount": "",
-        "line_extension_amount": "",
-        "payable_rounding_amount": ""
+        "line_extension_amount": "49.00",
+        "payable_rounding_amount": "-0.25"
     },
-    "document_currency_code": ""
+    "document_currency_code": "SEK"
 }

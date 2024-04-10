@@ -23,12 +23,19 @@
     "invoice_id": "2201",
     "issue_date": "2024-01-11",
     "payment_id": "56899946169743",
+    "tax_totals": [
+        {
+            "tax_amount": "287.25",
+            "tax_percent": "25.00",
+            "taxable_amount": "1149.00"
+        }
+    ],
     "customer_id": "487",
     "document_type": "380",
     "invoice_lines": [
         {
             "item": {
-                "name": "Hyra av Lastbil HNJ135",
+                "name": "Hyra av Lastbil HNJ135 11/01/2024",
                 "sellers_item_identification": ""
             },
             "price": {
@@ -67,6 +74,11 @@
             "amount": "0.00",
             "charge": true,
             "reason": "Frakt"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Faktura.avg"
         }
     ],
     "supplier_reference": "Djamel Hamtouche",

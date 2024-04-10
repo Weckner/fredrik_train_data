@@ -13,6 +13,7 @@
             
         },
         "telephone": "08-505 515 00",
+        "fax": "08-651 09 96",
         "financial_accounts": [
             {
                 "id": "5619-0127",
@@ -25,9 +26,10 @@
           "address_line": "Miss Clara by Nobis",
           "street": "LUNTMAKARGATAN 29",
           "zip": "111 37",
-          "city": "STOCKHOLM",
-        "actual_delivery_date": "2023-12-07"
-        }
+          "city": "STOCKHOLM"
+        },
+        "actual_delivery_date": "2023-12-07",
+        "name": ""
     },
     "due_date": "2024-01-07",
     "invoice_id": "1079214",
@@ -37,13 +39,13 @@
     "invoice_lines": [
         {
             "item": {
-                "name": "Il Conte Montepul d´ Abru 375ml Eko",
+                "name": "Il Conte Montepul d´ Abru 375ml Eko    2021",
                 "sellers_item_identification": "232202"
             },
             "price": {
-                "amount": "33.32"
+                "amount": "39.20"
             },
-            "allowance_charges": [{"charge": false, "percentage": "15.00"}],
+            "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "48.00",
             "line_extension_amount": "1599.36"
         },
@@ -55,6 +57,7 @@
             "price": {
                 "amount": "450.00"
             },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
             "invoiced_quantity": "1.00",
             "line_extension_amount": "450.00"
         }
@@ -62,13 +65,15 @@
     "payment_terms": "30 dgr netto",
     "buyer_reference": "",
     "order_reference": {
-        "supplier_id": "740969"
+        "id": "",
+        "sales_order_id": "740969"
     },
     "supplier_reference": "Henrik Wendel",
     "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "taxable_amount": "2049.36",
         "tax_amount": "512.34",
         "payable_amount": "2562.00",
-        "tax_exclusive_amount": "2049.36",
         "payable_rounding_amount": "0.30"
     }
 }

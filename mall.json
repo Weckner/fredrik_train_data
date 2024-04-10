@@ -33,10 +33,10 @@
           "additional_street": "",
           "zip": "",
           "city": "",
-          "country": "",
+          "country": ""
+        },
         "actual_delivery_date": "",
         "name": ""
-        }
     },
     "due_date": "",
     "invoice_id": "",
@@ -56,14 +56,20 @@
             "line_id": "",
             "item": {
                 "name": "",
-                "additional_item_properties": [],
+                "description": "",
+                "additional_item_properties": [
+                    {
+                        "name": "",
+                        "value": ""
+                    }
+                ],
                 "sellers_item_identification": ""
             },
             "price": {
                 "unit": "",
                 "amount": ""
             },
-            "allowance_charges": [{"charge": false, "percentage": ""}],
+            "allowance_charge": [{"charge": false, "percentage": ""}],
             "invoiced_quantity": "",
             "line_extension_amount": ""
         }
@@ -72,7 +78,7 @@
     "buyer_reference": "",
     "order_reference": {
         "id": "",
-        "supplier_id": ""
+        "sales_order_id": ""
     },
     "allowance_charges": [
         {

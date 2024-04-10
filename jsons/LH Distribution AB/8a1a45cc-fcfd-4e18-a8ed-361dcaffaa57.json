@@ -21,13 +21,24 @@
     },
     "delivery":{
         "address":{
+            "address_line": "Blique AB",
+            "street": "Gävlegatan 18",
+            "zip": "11330",
+            "city": "Stockholm"
+        },
         "actual_delivery_date": "2024-01-25"
-        }
     },
     "due_date": "2024-02-24",
     "invoice_id": "1852",
     "issue_date": "2024-01-25",
     "payment_id": "53692961147345",
+    "tax_totals": [
+        {
+            "tax_amount": "565.00",
+            "tax_percent": "25.00",
+            "taxable_amount": "2260.00"
+        }
+    ],
     "customer_id": "1081",
     "document_type": "380",
     "invoice_lines": [
@@ -67,8 +78,20 @@
     ],
     "payment_terms": "30 dagar",
     "order_reference": {
-        "supplier_id": "1834"
+        "sales_order_id": "1834"
     },
+    "allowance_charges": [
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Frakt"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Faktura.avg"
+        }
+    ],
     "supplier_reference": "Anders Holmberg",
     "legal_monetary_total": {
         "tax_amount": "565.00",

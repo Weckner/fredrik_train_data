@@ -10,9 +10,6 @@
             "city": "Stockholm"
             
         },
-    "delivery": {
-        "actual_delivery_date": "24-01-19"
-    },
         "telephone": "08-454 31 90",
         "financial_accounts": [
             {
@@ -22,13 +19,12 @@
             {
                 "id": "SE6150000000052021021181",
                 "type": "IBAN",
-                "additional_id": ""
-            },
-            {
-                "id": "ESSESESS",
-                "type": "Swift/BIC"
+                "additional_id": "ESSESESS"
             }
         ]
+    },
+    "delivery": {
+        "actual_delivery_date": "2024-01-19"
     },
     "due_date": "2024-02-20",
     "issue_date": "2024-01-31",
@@ -62,6 +58,6 @@
     "legal_monetary_total": {
         "tax_amount": "90.00",
         "payable_amount": "450.00",
-        "tax_exclusive_amount": "360.00"
+        "line_extension_amount": "360.00"
     }
 }
