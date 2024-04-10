@@ -1,0 +1,105 @@
+{
+    "payee": {
+        "web": "www.conceptstore.se",
+        "email": "sven@conceptstore.se",
+        "org_id": "556790-4528",
+        "vat_id": "SE556790452801",
+        "address": {
+            "address_line": "Concept Store Sweden AB",
+            "street": "",
+            "zip": "",
+            "city": "",
+            "country": ""
+            
+        },
+        "telephone": "+46704266622",
+        "fax": "",
+        "financial_accounts": [
+            {
+                "id": "497-6973",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "",
+                "type": "Plusgiro"
+            },
+            {
+                "id": "SE32 5000 0000 0511 7105 2510",
+                "type": "IBAN",
+                "additional_id": "ESSESESSXXX"
+            }
+        ]
+    },
+    "delivery":{
+        "name": ""
+    },
+    "due_date": "2024-02-23",
+    "invoice_id": "1040",
+    "issue_date": "2024-01-24",
+    "tax_totals": [
+        {
+            "tax_amount": "5661.50",
+            "tax_percent": "25.00",
+            "taxable_amount": "22656.00"
+        },
+        {
+            "tax_amount": "0.0",
+            "tax_percent": "12.00"
+        },
+        {
+            "tax_amount": "0.0",
+            "tax_percent": "6.00"
+        }
+    ],
+    "customer_id": "100000038",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Genesys - G Summit (se bifogad spec enligt kvitto)",
+                "sellers_item_identification": "14"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": ""
+        },
+        {
+            "item": {
+                "name": "Lokal 9%",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "12672.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "12672.00"
+        },
+        {
+            "item": {
+                "name": "Mat 5%",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "9974.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "9974.00"
+        }
+    ],
+    "payment_terms": "30 dagar",
+    "buyer_reference": "Netti Arzt",
+    "order_reference": {
+        "id": ""
+    },
+    "supplier_reference": "Sven von Haslingen",
+    "legal_monetary_total": {
+        "tax_amount": "5661.50",
+        "payable_amount": "28308.00",
+        "tax_exclusive_amount": "22646.00",
+        "line_extension_amount": "22646.00",
+        "payable_rounding_amount": "0.50"
+    },
+    "document_currency_code": "SEK"
+}

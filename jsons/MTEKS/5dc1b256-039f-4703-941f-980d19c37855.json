@@ -1,0 +1,46 @@
+{
+    "payee": {
+        "web": "www.mteks.se",
+        "email": "info@mteks.se",
+        "org_id": "840122-6892",
+        "address": {
+            "address_line": "MTEKS"
+            
+        },
+        "telephone": "0700151812",
+        "financial_accounts": [
+            {
+                "id": "5862-6607",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-22",
+    "invoice_id": "20241",
+    "issue_date": "",
+    "payment_id": "10157",
+    "customer_id": "202401",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Komfovent Agregat Styrkort felsökning.",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "900.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1125.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "buyer_reference": "Niclas Person / uttran700",
+    "supplier_reference": "",
+    "legal_monetary_total": {
+        "tax_amount": "225.00",
+        "payable_amount": "1125.00",
+        "tax_exclusive_amount": "900.00"
+    }
+}

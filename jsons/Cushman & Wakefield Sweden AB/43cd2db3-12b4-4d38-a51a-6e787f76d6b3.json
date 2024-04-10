@@ -1,0 +1,64 @@
+{
+    "payee": {
+        "email": "AccountsReceivable.SE@cushwake.com",
+        "org_id": "556311-3017",
+        "vat_id": "SE556311301701",
+        "address": {
+            "address_line": "Cushman & Wakefield Sweden AB",
+            "street": "Box 3637 Regeringsgatan 59",
+            "zip": "103 59",
+            "city": "Stockholm",
+            "country": ""
+            
+        },
+        "telephone": "+40 (372) 836482",
+        "financial_accounts": [
+            {
+                "id": "5138-7843",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE3850000000058151021373",
+                "type": "IBAN",
+                "additional_id": "ESSESESS"
+            },
+            {
+                "id": "1021373",
+                "type": "local",
+                "additional_id": "5815"
+            }
+        ]
+    },
+    "due_date": "2024-04-07",
+    "invoice_id": "SE3845-CI-24-00344",
+    "issue_date": "2024-03-18",
+    "tax_totals": [
+        {
+            "tax_amount": "7500.00",
+            "tax_percent": "25.00"
+        }
+    ],
+    "customer_id": "CU0285036",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "line_id": "",
+            "item": {
+                "name": "Värdebedömning av tomträtterna Strömkedjan 1 och Slussmästaren 1 i Stockholms kommun.",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "30000.00"
+            },
+            "line_extension_amount": "30000.00"
+        }
+    ],
+    "payment_terms": "Net 20",
+    "supplier_reference": "Matteo Catenacci",
+    "legal_monetary_total": {
+        "tax_amount": "7500.00",
+        "payable_amount": "37500.00",
+        "tax_exclusive_amount": "30000.00"
+    },
+    "document_currency_code": "SEK"
+}

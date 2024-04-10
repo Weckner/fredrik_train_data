@@ -38,7 +38,7 @@
         "name": ""
     },
     "due_date": "",
-    "invoice_id": "",
+    "invoice_id": "202485",
     "issue_date": "",
     "payment_id": "",
     "tax_totals": [
@@ -48,8 +48,8 @@
             "taxable_amount": ""
         }
     ],
-    "customer_id": "",
-    "document_type": "",
+    "customer_id": "84939",
+    "document_type": "380",
     "invoice_lines": [
         {
             "line_id": "",
@@ -76,8 +76,8 @@
     "payment_terms": "",
     "buyer_reference": "",
     "order_reference": {
-        "id": "",
-        "sales_order_id": ""
+        "id": "Åse Edsborg",
+        "sales_order_id": "Sofia Häll"
     },
     "allowance_charges": [
         {

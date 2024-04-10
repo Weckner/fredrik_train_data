@@ -1,0 +1,80 @@
+{
+    "payee": {
+        "web": "www.aroskapital.se",
+        "email": "faktura@aroskapital.se",
+        "vat_id": "SE556669313001",
+        "address": {
+            "address_line": "Aros Kapital AB",
+            "street": "Vestagatan 6",
+            "zip": "416 64",
+            "city": "Göteborg"
+            
+        },
+        "telephone": "031-833670",
+        "fax": "",
+        "financial_accounts": [
+            {
+                "id": "5252-9013",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE87 9500 0099 6034 0755 7036",
+                "type": "IBAN",
+                "additional_id": "NDEASESS"
+            }
+        ]
+    },
+    "due_date": "2024-04-18",
+    "invoice_id": "86195",
+    "issue_date": "2024-03-19",
+    "payment_id": "2020830008619563",
+    "tax_totals": [
+        {
+            "tax_amount": "1482.00",
+            "tax_percent": "25.00",
+            "taxable_amount": "5928.00"
+        }
+    ],
+    "customer_id": "35597",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Annons i Schibsted digitalt: Digital påskkampanj 2024 - Schibsteds kanaler Aftonbladet, SvD, Klart.se, TV.nu, Klart. se, Omni.se. Period: 240315 - 240402",
+                "tax_percent": "25.00",
+                "sellers_item_identification": "1294"
+            },
+            "price": {
+                "amount": "5900.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "5900.00"
+        },
+        {
+            "item": {
+                "name": "Fakturaavgift",
+                "tax_percent": "25.00",
+                "sellers_item_identification": "AVG"
+            },
+            "price": {
+                "amount": "28.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "28.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "Åse Edsborg",
+    "order_reference": {
+        "id": "Åse Edsborg",
+        "sales_order_id": ""
+    },
+    "supplier_reference": "Andreas Gill",
+    "legal_monetary_total": {
+        "payable_amount": "7410.00",
+        "tax_exclusive_amount": "5928.00"
+    },
+    "document_currency_code": "SEK"
+}

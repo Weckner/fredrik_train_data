@@ -1,0 +1,66 @@
+{
+    "payee": {
+        "web": "www.tullingebilspa.se",
+        "email": "info@tullingebilspa.se",
+        "vat_id": "SE556766099701",
+        "address": {
+            "address_line": "LC BILGLASCENTER AB",
+            "street": "Mekanikervägen 3",
+            "zip": "14633",
+            "city": "Tullinge"
+            
+        },
+        "telephone": "08-7786050",
+        "financial_accounts": [
+            {
+                "id": "332-8515",
+                "type": "Bg"
+            }
+        ]
+    },
+    "due_date": "2024-04-13",
+    "invoice_id": "306923",
+    "issue_date": "2024-03-14",
+    "payment_id": "306923",
+    "tax_totals": [
+        {
+            "tax_amount": "560.00",
+            "tax_percent": "25.00"
+        },
+        {
+            "tax_amount": "0.00",
+            "tax_percent": "12.00"
+        },
+        {
+            "tax_amount": "0.00",
+            "tax_percent": "6.00"
+        }
+    ],
+    "customer_id": "11273",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "TVÄTT, POLERING OCH VAXNING ENLIGT ÖVK "
+            },
+            "price": {
+                "amount": ""
+            },
+            "invoiced_quantity": "",
+            "line_extension_amount": "2240.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "904547"
+    },
+    "supplier_reference": "THOMAS BERGMAN",
+    "legal_monetary_total": {
+        "tax_amount": "560.00",
+        "payable_amount": "2800.00",
+        "tax_exclusive_amount": "2240.00",
+        "payable_rounding_amount": "0.00"
+    }
+}

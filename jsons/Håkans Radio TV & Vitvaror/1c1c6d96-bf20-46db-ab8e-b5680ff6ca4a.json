@@ -1,0 +1,69 @@
+{
+    "payee": {
+        "email": "hakanstv@gmail.com",
+        "vat_id": "SE556484592201",
+        "address": {
+            "address_line": "AB Håkans Radio & TV",
+            "street": "Industrigatan 21",
+            "zip": "821 41",
+            "city": "BOLLNÄS"
+            
+        },
+        "telephone": "0278-13018",
+        "fax": "0278-13009",
+        "financial_accounts": [
+            {
+                "id": "371697-4",
+                "type": "Plusgiro"
+            },
+            {
+                "id": "5111-1441",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "name": ""
+    },
+    "due_date": "2024-01-31",
+    "invoice_id": "21982",
+    "issue_date": "",
+    "payment_id": "",
+    "tax_totals": [
+        {
+            "tax_amount": "110.40",
+            "tax_percent": "25.00",
+            "tax_category": "1"
+        }
+    ],
+    "customer_id": "7322918",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Digitala Produkter, Högtalarkabel 2 x 1,5 mm2",
+                "tax_category": "1",
+                "sellers_item_identification": "0251000001"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "12.00"
+            },
+            "invoiced_quantity": "46.00",
+            "line_extension_amount": "552.00"
+        }
+    ],
+    "payment_terms": "30 dagar",
+    "buyer_reference": "Mikael Hellbom",
+    "order_reference": {
+        "id": "Candys",
+        "sales_order_id": ""
+    },
+    "supplier_reference": "Håkan Jonsson",
+    "legal_monetary_total": {
+        "tax_amount": "110.40",
+        "payable_amount": "552.00",
+        "line_extension_amount": "552.00"
+    },
+    "document_currency_code": "SEK"
+}

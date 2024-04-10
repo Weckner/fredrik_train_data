@@ -1,93 +1,139 @@
 {
     "payee": {
         "web": "",
-        "email": "",
+        "email": "info@ospab.se",
         "org_id": "",
-        "vat_id": "",
+        "vat_id": "SE556151-361401",
         "address": {
             "address_line": "",
-            "street": "",
-            "zip": "",
+            "street": "Östra Sönnarslöv",
+            "zip": "298 96",
             "city": "",
-            "country": ""
+            "country": "SVERIGE"
             
         },
-        "telephone": "",
+        "telephone": "044-33 11 90",
+        "fax": "044-33 10 40",
         "financial_accounts": [
             {
-                "id": "",
-                "type": ""
+                "id": "391-3936",
+                "type": "BANKGIRO"
             },
             {
-                "id": "",
-                "type": "",
-                "additional_id": ""
+                "id": "66 14 95-2",
+                "type": "PLUSGIRO"
             }
         ]
     },
     "delivery":{
         "address":{
-          "address_line": "",
-          "additional_line": "",
-          "street": "",
-          "additional_street": "",
-          "zip": "",
-          "city": "",
-          "country": "",
-        "actual_delivery_date": "",
-        "name": ""
-        }
+          "address_line": "HOTEL SKEPPSHOLMEN",
+          "street": "LÅNGA RADEN 7",
+          "zip": "111 49",
+          "city": "STOCKHOLM"
+        },
+        "actual_delivery_date": "2023-07-03"
     },
-    "due_date": "",
-    "invoice_id": "",
-    "issue_date": "",
-    "payment_id": "",
-    "tax_totals": [
-        {
-            "tax_amount": "",
-            "tax_percent": "",
-            "taxable_amount": ""
-        }
-    ],
-    "customer_id": "",
-    "document_type": "",
+    "due_date": "2023-08-05",
+    "invoice_id": "39578",
+    "issue_date": "2023-07-05",
+    "customer_id": "96762",
+    "document_type": "380",
     "invoice_lines": [
         {
-            "line_id": "",
             "item": {
-                "name": "",
-                "additional_item_properties": [],
-                "sellers_item_identification": ""
+                "name": "ÄPPELMUST 3L BiB CLASSIC Lot.",
+                "sellers_item_identification": "970025"
             },
             "price": {
-                "unit": "",
-                "amount": ""
+                "amount": "62.00"
             },
-            "allowance_charges": [{"charge": false, "percentage": ""}],
-            "invoiced_quantity": "",
-            "line_extension_amount": ""
+            "invoiced_quantity": "60.00",
+            "line_extension_amount": "3720.00"
+        },
+        {
+            "item": {
+                "name": "ÄPPELMUST 3L BiB GREEN Lot. expo",
+                "sellers_item_identification": "970180"
+            },
+            "price": {
+                "amount": "62.00"
+            },
+            "invoiced_quantity": "60.00",
+            "line_extension_amount": "3720.00"
+        },
+        {
+            "item": {
+                "name": "ÄPPELMUST BURK 0,25 GREEN Lot",
+                "sellers_item_identification": "970260"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "ÄPPELMUST BURK 0,25 INGEFÄRA Lot. med kolsyra",
+                "sellers_item_identification": "970261"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "ÄPPELMUST BURK 0,25 RED Lot. med kolsyra",
+                "sellers_item_identification": "970262"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "ÄPPELCIDER BURK 0,25 SILVER Lot.",
+                "sellers_item_identification": "970262"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
         }
     ],
-    "payment_terms": "",
     "buyer_reference": "",
     "order_reference": {
         "id": "",
-        "supplier_id": ""
+        "sales_order_id": "68897"
     },
     "allowance_charges": [
         {
-            "amount": "",
+            "amount": "0.00",
             "charge": true,
-            "reason": ""
+            "reason": "Frakt"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Emballage"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Exp.avg"
         }
     ],
-    "supplier_reference": "",
+    "supplier_reference": "Johanna Andersson",
     "legal_monetary_total": {
-        "tax_amount": "",
-        "payable_amount": "",
-        "tax_exclusive_amount": "",
-        "line_extension_amount": "",
-        "payable_rounding_amount": ""
-    },
-    "document_currency_code": ""
+        "tax_percent": "12.00",
+        "tax_amount": "893.00",
+        "payable_amount": "8333.00",
+        "line_extension_amount": "7440.00"
+    }
 }

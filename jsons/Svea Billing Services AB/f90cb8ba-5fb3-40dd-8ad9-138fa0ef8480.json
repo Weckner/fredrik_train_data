@@ -1,18 +1,16 @@
 {
     "payee": {
-        "web": "",
-        "email": "",
-        "org_id": "",
-        "vat_id": "",
+        "email": "support-sbs@svea.com",
+        "vat_id": "SE556555462201",
         "address": {
-            "address_line": "",
-            "street": "",
-            "zip": "",
-            "city": "",
+            "address_line": "Svea Billing Services AB",
+            "street": "(Mobivox Telecom)",
+            "zip": "169 81",
+            "city": "Solna",
             "country": ""
             
         },
-        "telephone": "",
+        "telephone": "08-735 29 00",
         "financial_accounts": [
             {
                 "id": "330-6206",
@@ -24,59 +22,29 @@
             }
         ]
     },
-    "delivery":{
-        "address":{
-          "address_line": "",
-          "additional_line": "",
-          "street": "",
-          "additional_street": "",
-          "zip": "",
-          "city": "",
-          "country": "",
-        "actual_delivery_date": "",
-        "name": ""
-        }
-    },
     "due_date": "2024-03-07",
     "invoice_id": "44076-1003237",
     "issue_date": "2024-02-06",
     "payment_id": "44076000100323770",
-    "tax_totals": [
-        {
-            "tax_amount": "",
-            "tax_percent": "",
-            "taxable_amount": ""
-        }
-    ],
     "customer_id": "1001210",
     "document_type": "380",
     "invoice_lines": [
         {
-            "line_id": "",
             "item": {
-                "name": "",
-                "additional_item_properties": [],
-                "sellers_item_identification": ""
+                "name": "Avgifter"
             },
             "price": {
-                "unit": "",
-                "amount": ""
+                "amount": "49.00"
             },
-            "allowance_charges": [{"charge": false, "percentage": ""}],
-            "invoiced_quantity": "",
-            "line_extension_amount": ""
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "49.00"
         }
     ],
-    "payment_terms": "",
-    "buyer_reference": "",
-    "order_reference": {
-        "id": "",
-        "supplier_id": ""
-    },
     "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "taxable_amount": "49.00",
         "tax_amount": "12.25",
         "payable_amount": "61.00",
-        "line_extension_amount": "49.00",
         "payable_rounding_amount": "-0.25"
     },
     "document_currency_code": "SEK"

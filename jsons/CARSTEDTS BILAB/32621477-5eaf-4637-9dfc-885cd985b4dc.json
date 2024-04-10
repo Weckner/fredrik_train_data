@@ -1,0 +1,67 @@
+{
+    "payee": {
+        "web": "www.carstedts.se",
+        "vat_id": "SE556062403201",
+        "address": {
+            "address_line": "CARSTEDTS BIL AB",
+            "street": "Ångermanlandsgatan 22 Box 358",
+            "zip": "891 27",
+            "city": "Örnskoldsvik"
+            
+        },
+        "telephone": "0660 - 790 00",
+        "fax": "090 - 70 69 30",
+        "financial_accounts": [
+            {
+                "id": "188-4725",
+                "type": "BANKGIRO"
+            },
+            {
+                "id": "46 17 35-3",
+                "type": "POSTGIRO"
+            }
+        ]
+    },
+    "due_date": "2024-04-14",
+    "invoice_id": "485963",
+    "issue_date": "2024-03-15",
+    "payment_id": "485963556174704899",
+    "tax_totals": [
+        {
+            "tax_amount": "2187.50",
+            "tax_percent": "25.00",
+            "taxable_amount": "8750.00"
+        },
+        {
+            "tax_percent": "0.00",
+            "taxable_amount": "0.00"
+        }
+    ],
+    "customer_id": "5561747048",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "SJÄLVRISK",
+                "sellers_item_identification": "99D"
+            },
+            "price": {
+                "amount": "8750.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "8750.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "sales_order_id": "5440196"
+    },
+    "supplier_reference": "Johanna Flykt",
+    "legal_monetary_total": {
+        "payable_amount": "10938.00",
+        "line_extension_amount": "8750.00",
+        "payable_rounding_amount": "0.50"
+    }
+}

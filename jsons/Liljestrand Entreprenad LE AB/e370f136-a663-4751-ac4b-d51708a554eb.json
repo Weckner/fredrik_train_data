@@ -1,0 +1,50 @@
+{
+    "payee": {
+        "email": "camilla.grane@liljestrand.se",
+        "org_id": "556501-8438",
+        "address": {
+            "address_line": "Liljestrand Entreprenad LE AB",
+            "street": "Lärjungevägen 4",
+            "zip": "13669",
+            "city": "Vendelsö",
+            "country": ""
+            
+        },
+        "telephone": "08-58648612",
+        "financial_accounts": [
+            {
+                "id": "5940-2065",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-24",
+    "invoice_id": "11033",
+    "issue_date": "2024-02-23",
+    "payment_id": "1103373",
+    "customer_id": "5561839191",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "JAN 24",
+
+                "sellers_item_identification": "2"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "375.00"
+            },
+            "invoiced_quantity": "5.00",
+            "line_extension_amount": "1875.00"
+        }
+    ],
+    "buyer_reference": "Stefan Liljestrand",
+    "supplier_reference": "Camilla Grane",
+    "legal_monetary_total": {
+        "tax_amount": "468.75",
+        "payable_amount": "2344.00",
+        "tax_exclusive_amount": "1875.00",
+        "payable_rounding_amount": "0.25"
+    }
+}

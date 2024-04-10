@@ -1,0 +1,88 @@
+{
+    "payee": {
+        "email": "info@frontaskelleftea.se",
+        "org_id": "559311-7970",
+        "address": {
+            "address_line": "Fronta Skellefteå AB",
+            "street": "Verkstadsvägen 12",
+            "zip": "931 61",
+            "city": "SKELLEFTEÅ"
+            
+        },
+        "telephone": "0910-888 06",
+        "financial_accounts": [
+            {
+                "id": "437-5127",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Byggbetong John Dahlgren AB",
+          "street": "Truckgatan 11 ",
+          "zip": "931 36",
+          "city": "Skellefteå"
+        },
+        "name": "Fritt Fronta"
+    },
+    "due_date": "2024-04-21",
+    "issue_date": "2024-03-22",
+    "payment_id": "10837383",
+    "customer_id": "12727",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Sittunderlag med 1-färgstryck",
+                "sellers_item_identification": "T"
+            },
+            "price": {
+                "unit": "St",
+                "amount": "33.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "100.00",
+            "line_extension_amount": "3300.00"
+        },
+        {
+            "item": {
+                "name": "Startkostnad",
+                "sellers_item_identification": "T"
+            },
+            "price": {
+                "unit": "St",
+                "amount": "650.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "650.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "Ludvig Dahlgren",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "73490"
+    },
+    "allowance_charges": [
+        {
+            "amount": "195.00",
+            "charge": true,
+            "reason": "Frakt"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Exp.avgift"
+        }
+    ],
+    "supplier_reference": "Katarina Lindberg",
+    "legal_monetary_total": {
+        "tax_amount": "1036.25",
+        "payable_amount": "5181.00",
+        "line_extension_amount": "3950.00",
+        "payable_rounding_amount": "-0.25"
+    },
+    "document_currency_code": "SEK"
+}

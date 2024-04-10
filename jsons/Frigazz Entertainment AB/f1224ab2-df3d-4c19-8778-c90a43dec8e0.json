@@ -1,93 +1,43 @@
 {
     "payee": {
-        "web": "",
-        "email": "",
-        "org_id": "",
-        "vat_id": "",
+        "org_id": "559070-8136",
+        "vat_id": "SE559070813601",
         "address": {
-            "address_line": "",
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "address_line": "Frigazz Entertainment AB",
+            "street": "Karlaplan 1",
+            "zip": "11460",
+            "city": "Stockholm"
             
         },
-        "telephone": "",
+        "telephone": "073-6153011",
         "financial_accounts": [
             {
-                "id": "",
-                "type": ""
-            },
-            {
-                "id": "",
-                "type": "",
-                "additional_id": ""
+                "id": "5128-2390",
+                "type": "Bg"
             }
         ]
     },
-    "delivery":{
-        "address":{
-          "address_line": "",
-          "additional_line": "",
-          "street": "",
-          "additional_street": "",
-          "zip": "",
-          "city": "",
-          "country": "",
-        "actual_delivery_date": "",
-        "name": ""
-        }
-    },
-    "due_date": "",
-    "invoice_id": "",
-    "issue_date": "",
-    "payment_id": "",
-    "tax_totals": [
-        {
-            "tax_amount": "",
-            "tax_percent": "",
-            "taxable_amount": ""
-        }
-    ],
-    "customer_id": "",
-    "document_type": "",
+    "due_date": "Omedelbart",
+    "invoice_id": "23-18",
+    "issue_date": "2023-09-07",
+    "document_type": "380",
     "invoice_lines": [
         {
-            "line_id": "",
             "item": {
-                "name": "",
-                "additional_item_properties": [],
-                "sellers_item_identification": ""
+                "name": "Sponsring till Brazilian Day 2023"
             },
             "price": {
-                "unit": "",
-                "amount": ""
+                "amount": "20000.00"
             },
-            "allowance_charges": [{"charge": false, "percentage": ""}],
-            "invoiced_quantity": "",
-            "line_extension_amount": ""
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "20000.00"
         }
     ],
-    "payment_terms": "",
-    "buyer_reference": "",
-    "order_reference": {
-        "id": "",
-        "supplier_id": ""
-    },
-    "allowance_charges": [
-        {
-            "amount": "",
-            "charge": true,
-            "reason": ""
-        }
-    ],
-    "supplier_reference": "",
+    "buyer_reference": "Nobs AB, Box 1616, 111 86 Stockholm",
+    "supplier_reference": "Frigazz Entertainment AB, Ref Magdalena Strömgren",
     "legal_monetary_total": {
-        "tax_amount": "",
-        "payable_amount": "",
-        "tax_exclusive_amount": "",
-        "line_extension_amount": "",
-        "payable_rounding_amount": ""
-    },
-    "document_currency_code": ""
+        "tax_percent": "25.00",
+        "tax_amount": "5000.00",
+        "payable_amount": "25000.00"
+    }
 }

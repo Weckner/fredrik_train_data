@@ -1,0 +1,60 @@
+{
+    "payee": {
+        "vat_id": "SE556712577701",
+        "address": {
+            "address_line": "LYSMAN.COM, IPICCOLO AB",
+            "street": "BOX 23027",
+            "zip": "75023",
+            "city": "UPPSALA"
+            
+        },
+        "financial_accounts": [
+            {
+                "id": "5307-1676",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "416 36 00-2",
+                "type": "Plusgiro"
+            }
+        ]
+    },
+    "due_date": "2023-11-08",
+    "invoice_id": "85193-1003938",
+    "issue_date": "2023-10-09",
+    "payment_id": "85193000100393873",
+    "customer_id": "13189197",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Osram LED Classic A60 7W/827 FEL E27"
+            },
+            "price": {
+                "amount": "48.80"
+            },
+            "invoiced_quantity": "25.00",
+            "line_extension_amount": "1220.00"
+        },
+        {
+            "item": {
+                "name": "Fraktavgift - PostNord Företagspaket"
+            },
+            "price": {
+                "amount": "79.20"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "79.20"
+        }
+    ],
+    "buyer_reference": "Lars Fastrup",
+    "order_reference": {
+        "sales_order_id": "1910217536"
+    },
+    "legal_monetary_total": {
+        "taxable_amount" : "1299.20",
+        "tax_amount": "324.80",
+        "payable_amount": "1624.00"
+    },
+    "document_currency_code": "SEK"
+}

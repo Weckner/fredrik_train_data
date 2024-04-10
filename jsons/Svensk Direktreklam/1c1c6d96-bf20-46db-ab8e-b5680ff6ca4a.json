@@ -1,0 +1,50 @@
+{
+    "payee": {
+        "web": "",
+        "email": "ekonomi@sdr.se",
+        "org_id": "556067-0274",
+        "vat_id": "SE556469824801",
+        "address": {
+            "address_line": "Malmixx Projekt AB",
+            "street": "Box 1524",
+            "zip": "751 45",
+            "city": "UPPSALA"
+            
+        },
+        "telephone": "018-17 21 00",
+        "financial_accounts": [
+            {
+                "id": "5595-4150",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-02-17",
+    "invoice_id": "399101148324",
+    "issue_date": "2024-02-02",
+    "customer_id": "48444",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Tryck o distribution av direktreklam v 05"
+            },
+            "price": {
+                "amount": "1.30"
+            },
+            "invoiced_quantity": "23060.00",
+            "line_extension_amount": "29978.00"
+        }
+    ],
+    "buyer_reference": "Åse Edsborg",
+    "order_reference": {
+        "sales_order_id": "399-16469-00001-001"
+    },
+    "supplier_reference": "Mats Larsson",
+    "legal_monetary_total": {
+        "tax_amount": "7495.00",
+        "payable_amount": "37473.00",
+        "line_extension_amount": "29978.00"
+    },
+    "document_currency_code": "SEK"
+}

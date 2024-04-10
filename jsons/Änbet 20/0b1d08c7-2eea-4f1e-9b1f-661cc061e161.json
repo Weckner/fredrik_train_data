@@ -1,93 +1,39 @@
 {
     "payee": {
-        "web": "",
-        "email": "",
-        "org_id": "",
-        "vat_id": "",
+        "vat_id": "600306-5660-01",
         "address": {
-            "address_line": "",
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "address_line": "Jan Dudzik",
+            "street": "Karpgatan 8",
+            "zip": "133 41",
+            "city": "Saltsjöbaden"
             
         },
-        "telephone": "",
+        "telephone": "070 727 46 98",
         "financial_accounts": [
             {
-                "id": "",
-                "type": ""
-            },
-            {
-                "id": "",
-                "type": "",
-                "additional_id": ""
+                "id": "640-2275",
+                "type": "Bankgiro"
             }
         ]
     },
-    "delivery":{
-        "address":{
-          "address_line": "",
-          "additional_line": "",
-          "street": "",
-          "additional_street": "",
-          "zip": "",
-          "city": "",
-          "country": "",
-        "actual_delivery_date": "",
-        "name": ""
-        }
-    },
-    "due_date": "",
-    "invoice_id": "",
-    "issue_date": "",
-    "payment_id": "",
-    "tax_totals": [
-        {
-            "tax_amount": "",
-            "tax_percent": "",
-            "taxable_amount": ""
-        }
-    ],
-    "customer_id": "",
-    "document_type": "",
+    "due_date": "2023-10-21",
+    "invoice_id": "2022-40",
+    "issue_date": "2023-09-21",
+    "document_type": "380",
     "invoice_lines": [
         {
-            "line_id": "",
             "item": {
-                "name": "",
-                "additional_item_properties": [],
-                "sellers_item_identification": ""
+                "name": "20 x 400 kr"
             },
             "price": {
-                "unit": "",
-                "amount": ""
+                "amount": "8000.00"
             },
-            "allowance_charges": [{"charge": false, "percentage": ""}],
-            "invoiced_quantity": "",
-            "line_extension_amount": ""
+            "line_extension_amount": "10000.00"
         }
     ],
-    "payment_terms": "",
-    "buyer_reference": "",
-    "order_reference": {
-        "id": "",
-        "supplier_id": ""
-    },
-    "allowance_charges": [
-        {
-            "amount": "",
-            "charge": true,
-            "reason": ""
-        }
-    ],
-    "supplier_reference": "",
     "legal_monetary_total": {
-        "tax_amount": "",
-        "payable_amount": "",
-        "tax_exclusive_amount": "",
-        "line_extension_amount": "",
-        "payable_rounding_amount": ""
-    },
-    "document_currency_code": ""
+        "tax_amount": "2000.00",
+        "payable_amount": "10000.00",
+        "line_extension_amount": "8000.00"
+    }
 }

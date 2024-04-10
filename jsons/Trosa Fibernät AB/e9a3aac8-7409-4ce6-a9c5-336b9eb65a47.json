@@ -1,0 +1,52 @@
+{
+    "payee": {
+        "web": "www.trofi.se",
+        "email": "info@trofi.se",
+        "org_id": "556793-1711",
+        "vat_id": "SE556793171101",
+        "address": {
+            "address_line": "Trosa Fibernät AB",
+            "street": "Lundagatan 10",
+            "zip": "619 80",
+            "city": "Trosa"
+            
+        },
+        "telephone": "0156-523 00",
+        "financial_accounts": [
+            {
+                "id": "467-5096",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "76 73 25-4",
+                "type": "Plusgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-28",
+    "invoice_id": "2056146",
+    "issue_date": "2024-03-01",
+    "payment_id": "205614696",
+    "customer_id": "",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Fibernät",
+                "description": "Nätavgift fiber, nätavgift för 3st anslutningar",
+                "sellers_item_identification": "2000-2286"
+            },
+            "price": {
+                "amount": "540.00"
+            },
+            "line_extension_amount": "540.00"
+        }
+    ],
+    "legal_monetary_total": {
+        "taxable_amount": "540.00",
+        "tax_amount": "135.00",
+        "payable_amount": "675.00",
+        "tax_exclusive_amount": "540.00"
+    },
+    "document_currency_code": "SEK"
+}

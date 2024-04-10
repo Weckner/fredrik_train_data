@@ -1,0 +1,81 @@
+{
+    "payee": {
+        "email": "info@pss.se",
+        "org_id": "556553-7015",
+        "vat_id": "SE556553701501",
+        "address": {
+            "address_line": "Profil & Souvenir i Sverige AB",
+            "street": "Box 158",
+            "zip": "186 23",
+            "city": "Vallentuna"
+            
+        },
+        "telephone": "+468 514 507 40",
+        "financial_accounts": [
+            {
+                "id": "5266-7466",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-04-05",
+    "invoice_id": "F 29155",
+    "issue_date": "2024-03-21",
+    "payment_id": "",
+    "tax_totals": [
+        {
+            "tax_amount": "997.25",
+            "tax_percent": "25.00"
+        },
+        {
+            "tax_amount": "",
+            "tax_percent": "12.00"
+        }
+    ],
+    "customer_id": "100929",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "200483 Veron ink logo 2 st One Size",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "1395.00"
+            },
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "2790.00"
+        },
+        {
+            "item": {
+                "name": "200323 Ace ink logo",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "amount": "1199.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1199.00"
+        }
+    ],
+    "payment_terms": "15 dagar netto",
+    "buyer_reference": "Maxmilian",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "32595"
+    },
+    "allowance_charges": [
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Frakt"
+        }
+    ],
+    "supplier_reference": "Andreas Hamberg",
+    "legal_monetary_total": {
+        "tax_amount": "997.25",
+        "payable_amount": "4986.00",
+        "line_extension_amount": "3989.00",
+        "payable_rounding_amount": "-0.25"
+    }
+}

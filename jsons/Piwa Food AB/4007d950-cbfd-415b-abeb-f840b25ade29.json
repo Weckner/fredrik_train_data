@@ -1,0 +1,221 @@
+{
+    "payee": {
+        "web": "www.piwafood.se",
+        "org_id": "556243-1741",
+        "vat_id": "SE556243174101",
+        "address": {
+            "address_line": "Piwa Food AB",
+            "street": "Byggvägen 4",
+            "zip": "443 61",
+            "city": "Stenkullen",
+            "country": ""
+            
+        },
+        "telephone": "0302-241 60",
+        "financial_accounts": [
+            {
+                "id": "888-5980",
+                "type": "Bg"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Kandyz Bollnäs",
+          "street": "Industrigatan 1",
+          "zip": "821 41",
+          "city": "Bollnäs",
+          "country": "Sverige"
+        },
+        "name": "CIP - fraktfritt inkl. fö"
+    },
+    "due_date": "2024-03-28 ",
+    "invoice_id": "999491",
+    "issue_date": "2024-03-18",
+    "customer_id": "13700",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Bacon Snacks Big Bag",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243030"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "27.95"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "8.00",
+            "line_extension_amount": "3577.60"
+        },
+        {
+            "item": {
+                "name": "Sourcream & Onion Sn",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243033"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "27.95"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "8.00",
+            "line_extension_amount": "3577.60"
+        },
+        {
+            "item": {
+                "name": "Jalapeno Snacks Big",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243038"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "27.95"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "8.00",
+            "line_extension_amount": "3577.60"
+        },
+        {
+            "item": {
+                "name": "Popcorn poppade Big",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243030"
+            },
+            "price": {
+                "unit": "Pall",
+                "amount": "52.50"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "2520.60"
+        },
+        {
+            "item": {
+                "name": "Potato Sticks Sourcr",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243046"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "10.79"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Potato Sticks Paprik",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "243047"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "10.79"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Poppade Popcorn Swee",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "241450"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "11.99"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Poppade Popcorn Swee",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "241451"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "11.99"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Poppade Popcorn Cara",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "241452"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "11.99"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Poppade Popcorn Jala",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "241454"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "11.99"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "1942.60"
+        },
+        {
+            "item": {
+                "name": "Annonsbidrag Kolonia",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "999223"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "-2672.92"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "-1.00",
+            "line_extension_amount": "2672.92"
+        },
+        {
+            "item": {
+                "name": "EUR Pall",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "999011"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "200.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "5.00",
+            "line_extension_amount": "1000.00"
+        }
+    ],
+    "payment_terms": "10 dagar netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "529983"
+    },
+    "supplier_reference": "Adam Janarp",
+    "legal_monetary_total": {
+        "tax_amount": "3648.24",
+        "payable_amount": "34050.00",
+        "line_extension_amount": "30402.12",
+        "payable_rounding_amount": "-0.36"
+    },
+    "document_currency_code": "SEK"
+}
