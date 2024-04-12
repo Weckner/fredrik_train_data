@@ -1,0 +1,106 @@
+{
+    "payee": {
+        "web": "www.leathermaster.se",
+        "email": "info@leathermaster.se",
+        "org_id": "556362-6083",
+        "vat_id": "",
+        "address": {
+            "address_line": "Leathermaster Scandinavia AB",
+            "street": "Klangfärgsgatan 16",
+            "zip": "426 42",
+            "city": "V FRÖLUNDA",
+            "country": "Sverige"
+            
+        },
+        "telephone": "031695150",
+        "fax": "031297035",
+        "financial_accounts": [
+            {
+                "id": "914-5012",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE6980000810599830429701",
+                "type": "IBAN",
+                "additional_id": "SWEDSESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Blique AB",
+          "street": "Gävlegatan 18",
+          "zip": "113 30",
+          "city": "STOCKHOLM"
+        },
+        "name": "Fraktfritt över 4500"
+    },
+    "due_date": "2024-04-26",
+    "invoice_id": "10489722",
+    "issue_date": "2024-03-27",
+    "customer_id": "105535",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Färgblandning enl prov 500 ml black",
+                "sellers_item_identification": "1-1600203"
+            },
+            "price": {
+                "unit": "St",
+                "amount": "576.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "576.00"
+        },
+        {
+            "item": {
+                "name": "Färgblandning enl prov 500 ml brown",
+                "sellers_item_identification": "1-1600203"
+            },
+            "price": {
+                "unit": "St",
+                "amount": "576.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "576.00"
+        },
+        {
+            "item": {
+                "name": "Leather Protection Cream Prem. 1L skickas från VF",
+                "sellers_item_identification": "1-1510177"
+            },
+            "price": {
+                "unit": "St",
+                "amount": "464.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "464.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "73913"
+    },
+    "allowance_charges": [
+        {
+            "amount": "90.00",
+            "charge": true,
+            "reason": "Frakt"
+        }
+    ],
+    "supplier_reference": "Patrick Nyberg",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "426.50",
+        "payable_amount": "2133.00",
+        "line_extension_amount": "1616.00",
+        "payable_rounding_amount": "0.50"
+    },
+    "document_currency_code": "SEK"
+}

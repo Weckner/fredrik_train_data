@@ -1,0 +1,100 @@
+{
+    "payee": {
+        "web": "www.alcolock.se",
+        "email": "info@alcolock.se",
+        "org_id": "",
+        "vat_id": "SE556546750201",
+        "address": {
+            "address_line": "ALCOLOCK Sverige AB",
+            "street": "Lärjungevägen 6",
+            "zip": "136 69",
+            "city": "VENDELSÖ",
+            "country": "SWEDEN"
+            
+        },
+        "telephone": "+ 46 (0)8 776 78 00",
+        "fax": "+46 (0)8 776 18 90",
+        "financial_accounts": [
+            {
+                "id": "5977-7664",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE5350000000054171019826",
+                "type": "IBAN",
+                "additional_id": "ESSESESS"
+            },
+            {
+                "id": "SE2250000000054238285034",
+                "type": "IBAN",
+                "additional_id": "ESSESESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Liljestrand Fastigheter AB",
+          "street": "Lärjungevägen 4",
+          "zip": "13669",
+          "city": "VENDELSÖ",
+          "country": "SWEDEN"
+        }
+    },
+    "due_date": "2024-05-10",
+    "invoice_id": "12024820",
+    "issue_date": "2024-04-10",
+    "customer_id": "3315",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "line_id": "2",
+            "item": {
+                "name": "Skrotad / Scrapped",
+                "sellers_item_identification": "81-000120"
+            },
+            "price": {
+                "amount": "475.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "475.00"
+        },
+        {
+            "line_id": "4",
+            "item": {
+                "name": "Kalibrering Drivesafe",
+                "sellers_item_identification": "81-000001"
+            },
+            "price": {
+                "amount": "400.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "400.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "Jenny Moore",
+    "order_reference": {
+        "id": ""
+    },
+    "allowance_charges": [
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Frakt & exp. avg"
+        },
+        {
+            "amount": "875.00",
+            "charge": false,
+            "reason": "Rabatt"
+        }
+    ],
+    "supplier_reference": "Kim Gauffin",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "",
+        "payable_amount": "",
+        "tax_exclusive_amount": "0.00",
+        "payable_rounding_amount": ""
+    },
+    "document_currency_code": "SEK"
+}

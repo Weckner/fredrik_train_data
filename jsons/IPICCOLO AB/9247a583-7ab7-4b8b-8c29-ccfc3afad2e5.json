@@ -1,0 +1,46 @@
+{
+    "payee": {
+        "email": "swp@svea.com",
+        "vat_id": "SE5561587634",
+        "address": {
+            "address_line": "Svea Bank AB (publ)",
+            "zip": "169 81",
+            "city": "Solna"
+            
+        },
+        "telephone": "08-514 931 13"
+    },
+    "invoice_id": "85193-1003560",
+    "issue_date": "2023-03-31",
+    "customer_id": "15440379",
+    "document_type": "381",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Fraktavgift - PostNord Företagspaket"
+            },
+            "price": {
+                "amount": "79.20"
+            },
+            "invoiced_quantity": "-1.00",
+            "line_extension_amount": "-79.20"
+        },
+        {
+            "item": {
+                "name": "Star Trading Vintage Gold 1800K LED f..."
+            },
+            "price": {
+                "amount": "116.00"
+            },
+            "invoiced_quantity": "-6.00",
+            "line_extension_amount": "-696.00"
+        }
+    ],
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "-193.80",
+        "payable_amount": "-969.00",
+        "tax_exclusive_amount": "-775.20"
+    },
+    "document_currency_code": "SEK"
+}

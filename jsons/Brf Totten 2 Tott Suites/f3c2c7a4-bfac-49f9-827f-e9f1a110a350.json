@@ -1,0 +1,65 @@
+{
+    "payee": {
+        "org_id": "769615-6681",
+        "address": {
+            "address_line": "Brf Totten 2:68, Tott Suites",
+            "street": "HOF 15565, FE 617",
+            "zip": "10776",
+            "city": "Stockholm"
+            
+        },
+        "financial_accounts": [
+            {
+                "id": "854-0148",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-28",
+    "invoice_id": "620272294",
+    "issue_date": "2024-03-05",
+    "payment_id": "620272294",
+    "customer_id": "308363829",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Avgift, april-juni",
+                "tax_percent": ""
+            },
+            "price": {
+                "amount": "4655.00"
+            },
+            "invoiced_quantity": "",
+            "line_extension_amount": "4655.00"
+        },
+        {
+            "item": {
+                "name": "Elkostnad fast, april-juni",
+                "tax_percent": ""
+            },
+            "price": {
+                "amount": "546.00"
+            },
+            "invoiced_quantity": "",
+            "line_extension_amount": "546.00"
+        },
+        {
+            "item": {
+                "name": "Elkostnad rörlig, april-juni",
+                "tax_percent": ""
+            },
+            "price": {
+                "amount": "626.00"
+            },
+            "invoiced_quantity": "",
+            "line_extension_amount": "626.00"
+        }
+    ],
+    "legal_monetary_total": {
+        "tax_amount": "0.00",
+        "payable_amount": "5827.00",
+        "tax_exclusive_amount": "5827.00"
+    },
+    "document_currency_code": "SEK"
+}

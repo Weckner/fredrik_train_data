@@ -1,0 +1,97 @@
+{
+    "payee": {
+        "web": "www.dynaprint.se",
+        "email": "info@dynaprint.se",
+        "org_id": "556256-2701",
+        "vat_id": "SE556256270101",
+        "address": {
+            "address_line": "Dynaprint AB",
+            "street": "Polhemsgatan 10",
+            "zip": "171 58",
+            "city": "SOLNA"
+            
+        },
+        "telephone": "070-883 33 13",
+        "financial_accounts": [
+            {
+                "id": "825-4740",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "actual_delivery_date": "2024-03-27"
+    },
+    "due_date": "2024-05-02",
+    "invoice_id": "39994",
+    "issue_date": "2024-04-02",
+    "payment_id": "3999471",
+    "customer_id": "545",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Digitaltryck",
+                "description": "Inbjudan Road Show A5 - Aqua Dental Linköping 60 ex Tryck: 4+4 Papper: Scandia 300g",
+                "sellers_item_identification": "03"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "602.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "602.00"
+        },
+        {
+            "item": {
+                "name": "DHL, Sverige >5 kg ",
+                "description": "Aqua Dental Linköping",
+                "sellers_item_identification": "22"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "155.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "155.00"
+        },
+        {
+            "item": {
+                "name": "Digitaltryck",
+                "description": "Inbjudan Road Show A5 - Aqua Dental Norrköping 60 ex Tryck: 4+4 Papper: Scandia 300g",
+                "sellers_item_identification": "03"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "602.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "602.00"
+        },
+        {
+            "item": {
+                "name": "DHL, Sverige >5 kg ",
+                "description": "Aqua Dental Norrköping",
+                "sellers_item_identification": "22"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "155.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "155.00"
+        }
+    ],
+    "buyer_reference": "Jaqueline Hippi",
+    "order_reference": {
+        "id": "1926"
+    },
+    "supplier_reference": "Agge",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "378.50",
+        "payable_amount": "1893.00",
+        "tax_exclusive_amount": "1514.00",
+        "payable_rounding_amount": "0.50"
+    }
+}

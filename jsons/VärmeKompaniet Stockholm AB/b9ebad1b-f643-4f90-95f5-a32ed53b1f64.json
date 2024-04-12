@@ -1,0 +1,159 @@
+{
+    "payee": {
+        "email": "kontakt@varmekompaniet.se",
+        "org_id": "556668-2448",
+        "vat_id": "SE556668244801",
+        "address": {
+            "street": "Stenhuggarvägen 2 Q",
+            "zip": "132 38",
+            "city": "SALTSJÖ-BOO"
+        },
+        "telephone": "08 718 28 38",
+        "financial_accounts": [
+            {
+                "id": "5034-9364",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Liljestrand Fastigheter AB",
+          "street": "Bredviksvägen 1 ",
+          "zip": "139 74",
+          "city": "DJURHAMN"
+        }
+    },
+    "due_date": "2024-04-06",
+    "invoice_id": "F12670",
+    "issue_date": "2024-04-04",
+    "tax_totals": [
+        {
+            "tax_amount": "2795.00",
+            "tax_percent": "25.00",
+            "taxable_amount": "11180.00"
+        }
+    ],
+    "customer_id": "5540",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "GarantiService 3 år",
+                "sellers_item_identification": "GS"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "1840.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1840.00",
+            "line_extension_amount_inc_vat": "2300.00"
+        },
+        {
+            "item": {
+                "name": "GarantiService 3 år",
+                "sellers_item_identification": "GS"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "1840.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1840.00",
+            "line_extension_amount_inc_vat": "2300.00"
+        },
+        {
+            "item": {
+                "name": "GarantiService 3 år",
+                "sellers_item_identification": "GS"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "1840.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1840.00",
+            "line_extension_amount_inc_vat": "2300.00"
+        },
+        {
+            "item": {
+                "name": "Rabatt",
+                "sellers_item_identification": "RA"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "1840.00"
+            },
+            "invoiced_quantity": "-1.00",
+            "line_extension_amount": "-1840.00",
+            "line_extension_amount_inc_vat": "-2300.00"
+        },
+        {
+            "item": {
+                "name": "ArbetskS för flytt a",
+                "sellers_item_identification": "AK"
+            },
+            "price": {
+                "unit": "Timmar",
+                "amount": "800.00"
+            },
+            "invoiced_quantity": "5.00",
+            "line_extension_amount": "4000.00",
+            "line_extension_amount_inc_vat": "5000.00"
+        },
+        {
+            "item": {
+                "name": "Servicebil",
+                "sellers_item_identification": "SB"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "500.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "500.00",
+            "line_extension_amount_inc_vat": "625.00"
+        },
+        {
+            "item": {
+                "name": "Material: Dränering,",
+                "sellers_item_identification": "MT"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "600.00"
+            },
+            "invoiced_quantity": "5.00",
+            "line_extension_amount": "3000.00",
+            "line_extension_amount_inc_vat": "3750.00"
+        }
+    ],
+    "payment_terms": "2 dagar netto",
+    "buyer_reference": "Stefan Liljestrand",
+    "order_reference": {
+        "id": "Tel order",
+        "sales_order_id": "131878"
+    },
+    "allowance_charges": [
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Exp. avg"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Frakt"
+        }
+    ],
+    "supplier_reference": "Fredric Dage",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "2795.00",
+        "payable_amount": "13975.00",
+        "line_extension_amount": "11180.00",
+        "payable_rounding_amount": "0.00"
+    },
+    "document_currency_code": "SEK"
+}

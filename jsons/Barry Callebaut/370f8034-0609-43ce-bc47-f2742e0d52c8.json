@@ -30,7 +30,7 @@
     "tax_totals": [
         {
             "tax_amount": "0.00",
-            "vat_id": "A4",
+            "tax_category": "A4",
             "tax_percent": "0.00",
             "taxable_amount": "83435.45"
         }
@@ -42,15 +42,18 @@
             "item": {
                 "name": "Cacoa Barry Or Noir - Opera Noir Dark couverture chocolate Pistoles 20KG/BOX 32BOX/PAL Cocoa Horizons Foundation",
                 "tax_percent": "0.00",
-                "vat_id": "A4",
+                "tax_category": "A4",
                 "sellers_item_identification": "CHD-K21-OAK-566"
             },
             "price": {
-                "unit": "KG",
+                "unit": "/MT",
                 "amount": "166870.89"
             },
+            "tax_amount": "0.00",
             "invoiced_quantity": "500.00",
-            "line_extension_amount": "83435.45"
+            "line_extension_amount": "83435.45",
+            "line_extension_amount_inc_vat": "83435.45"
+
         }
     ],
     "payment_terms": "Net 30 days fro Invoice Date",

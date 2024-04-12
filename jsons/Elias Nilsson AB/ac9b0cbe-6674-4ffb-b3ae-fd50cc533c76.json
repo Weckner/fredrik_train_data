@@ -1,0 +1,50 @@
+{
+    "payee": {
+        "email": "olofeliasnilsson@gmail.com",
+        "org_id": "5591041289",
+        "vat_id": "SE559104128901",
+        "address": {
+            "address_line": "Elias Nilsson AB",
+            "street": "MUSKOTVÄGEN 11",
+            "zip": "123 55",
+            "city": "Farsta"
+            
+        },
+        "telephone": "0707699227",
+        "financial_accounts": [
+            {
+                "id": "5201-7985",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "name": "Fritt vårt lager"
+    },
+    "due_date": "2024-05-02",
+    "invoice_id": "175",
+    "issue_date": "2024-04-02",
+    "payment_id": "175",
+    "customer_id": "29",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Out of Office 22 mars (sax)",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "4000.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "4000.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "legal_monetary_total": {
+        "tax_amount": "1000.00",
+        "payable_amount": "5000.00",
+        "tax_exclusive_amount": "4000.00"
+    }
+}

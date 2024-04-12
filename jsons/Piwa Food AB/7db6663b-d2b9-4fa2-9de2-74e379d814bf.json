@@ -1,0 +1,80 @@
+{
+    "payee": {
+        "web": "www.piwafood.se",
+        "org_id": "556243-1741",
+        "vat_id": "SE556243174101",
+        "address": {
+            "address_line": "Piwa Food AB",
+            "street": "Byggvägen 4",
+            "zip": "443 61",
+            "city": "Stenkullen",
+            "country": ""
+            
+        },
+        "telephone": "0302-241 60",
+        "financial_accounts": [
+            {
+                "id": "888-5980",
+                "type": "Bg"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Kandyz Bollnäs",
+          "street": "Kandyz Bollnäs",
+          "additional_street": "Industrigatan 1",
+          "zip": "821 41",
+          "city": "Bollnäs",
+          "country": "Sverige"
+        },
+        "name": "CIP - fraktfritt inkl. fö"
+    },
+    "due_date": "2024-04-01",
+    "invoice_id": "999552",
+    "issue_date": "2024-03-22",
+    "customer_id": "13700",
+    "document_type": "381",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Annonsbidrag Kolonia",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "999223"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "2672.92"
+            },
+            "invoiced_quantity": "-1.00",
+            "line_extension_amount": "-2672.92"
+        },
+        {
+            "item": {
+                "name": "Annonsbidrag Kolonia",
+                "tax_percent": "12.00",
+                "sellers_item_identification": "999223"
+            },
+            "price": {
+                "unit": "krt",
+                "amount": "2672.92"
+            },
+            "invoiced_quantity": "-1.00",
+            "line_extension_amount": "-2672.92"
+        }
+    ],
+    "payment_terms": "10 dagar netto",
+    "buyer_reference": "",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "954278"
+    },
+    "supplier_reference": "Maria Belaj",
+    "legal_monetary_total": {
+        "tax_amount": "-641.50",
+        "payable_amount": "-5987.00",
+        "line_extension_amount": "-5345.84",
+        "payable_rounding_amount": "0.34"
+    },
+    "document_currency_code": "SEK"
+}

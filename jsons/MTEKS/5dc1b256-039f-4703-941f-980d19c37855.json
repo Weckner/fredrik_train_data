@@ -32,7 +32,7 @@
                 "amount": "900.00"
             },
             "invoiced_quantity": "1.00",
-            "line_extension_amount": "1125.00"
+            "line_extension_amount_inc_vat": "1125.00"
         }
     ],
     "payment_terms": "30 Dagar",

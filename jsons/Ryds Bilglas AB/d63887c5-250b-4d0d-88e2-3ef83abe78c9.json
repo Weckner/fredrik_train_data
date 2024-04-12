@@ -1,0 +1,104 @@
+{
+    "payee": {
+        "web": "www.rydsbilglas.se",
+        "email": "kundreskontra@rydsbilglas.se",
+        "vat_id": "SE556538750201",
+        "address": {
+            "address_line": "Ryds Bilglas AB",
+            "street": "Hammarby kaj 10 ",
+            "zip": "120 32",
+            "city": "Stockholm"
+            
+        },
+        "telephone": "021-304890",
+        "financial_accounts": [
+            {
+                "id": "5169-4073",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE0450000000051171127995",
+                "type": "IBAN",
+                "additional_id": "ESSESESSXXX"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "FITNESS 24SEVEN AB",
+          "street": "STORA SÖDERGATAN 4",
+          "zip": "22223",
+          "city": "LUND"
+        }
+    },
+    "due_date": "2022-03-03",
+    "invoice_id": "F2872590",
+    "issue_date": "2022-04-02",
+    "tax_totals": [
+        {
+            "tax_amount": "",
+            "tax_percent": "0.00",
+            "taxable_amount": "-525.25"
+        },
+        {
+            "tax_amount": "131.25",
+            "tax_percent": "25.00",
+            "taxable_amount": "525.25"
+        },
+        {
+            "tax_amount": "",
+            "tax_percent": "0.00",
+            "taxable_amount": "200.00"
+        }
+    ],
+    "customer_id": "65682",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Självrisk Lagning 1 stenskott",
+                "sellers_item_identification": "SJALVRISK"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "200.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "200.00"
+        },
+        {
+            "item": {
+                "name": "Underlag för att beräkna fram moms",
+                "sellers_item_identification": "SJMOMS"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "525.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "525.00"
+        },
+        {
+            "item": {
+                "name": "Underlag för att beräkna fram moms",
+                "sellers_item_identification": "SJMOMS"
+            },
+            "price": {
+                "unit": "Styck",
+                "amount": "-525.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "-525.00"
+        }
+    ],
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "",
+    "supplier_reference": "",
+    "legal_monetary_total": {
+        "tax_amount": "131.25",
+        "payable_amount": "331.00",
+        "line_extension_amount": "200.00",
+        "payable_rounding_amount": "-0.25"
+    },
+    "document_currency_code": "SEK"
+}

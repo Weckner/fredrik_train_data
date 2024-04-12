@@ -1,0 +1,103 @@
+{
+    "payee": {
+        "org_id": "556889-9230",
+        "address": {
+            "address_line": "VIKING JOHNSON AB",
+            "street": "Tolvmansgatan 2",
+            "zip": "89243",
+            "city": "Domsjö"
+            
+        },
+        "telephone": "073-8306035",
+        "financial_accounts": [
+            {
+                "id": "130-0664",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "",
+                "type": "Plusgiro"
+            }
+        ]
+    },
+    "due_date": "2024-04-17",
+    "invoice_id": "2041",
+    "issue_date": "2024-04-03",
+    "payment_id": "2041",
+    "customer_id": "11",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Hyra Migsvets",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "dag",
+                "amount": "200.00"
+            },
+            "invoiced_quantity": "4.00",
+            "tax_amount": "200.00",
+            "line_extension_amount_inc_vat": "1000.00"
+        },
+        {
+            "item": {
+                "name": "Klippning plåt",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "15.00"
+            },
+            "invoiced_quantity": "16.00",
+            "tax_amount": "60.00",
+            "line_extension_amount_inc_vat": "300.00"
+        },
+        {
+            "item": {
+                "name": "Hyra gasflaska",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "dag",
+                "amount": "24.00"
+            },
+            "invoiced_quantity": "10.00",
+            "tax_amount": "60.00",
+            "line_extension_amount_inc_vat": "300.00"
+        },
+        {
+            "item": {
+                "name": "Hyra släpvagn",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "dag",
+                "amount": "350.00"
+            },
+            "invoiced_quantity": "2.00",
+            "tax_amount": "175.00",
+            "line_extension_amount_inc_vat": "875.00"
+        },
+        {
+            "item": {
+                "name": "Fyllning gasflaska 20L +10%",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "1411.30"
+            },
+            "invoiced_quantity": "1.00",
+            "tax_amount": "352.83",
+            "line_extension_amount_inc_vat": "1764.13"
+        }
+    ],
+    "payment_terms": "14 dagar",
+    "supplier_reference": "Rikard Johnson",
+    "legal_monetary_total": {
+        "tax_amount": "847.83",
+        "payable_amount": "4239.13",
+        "tax_exclusive_amount": "3391.30"
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "payee": {
+        "web": "www.kontorab.se",
+        "email": "order@kontorab.se",
+        "org_id": "556541-8935",
+        "vat_id": "SE556541893501",
+        "address": {
+            "address_line": "Kontorab AB",
+            "street": "Zinkgatan 8",
+            "zip": "60223",
+            "city": "Norrköping"
+            
+        },
+        "telephone": "011-4401500",
+        "financial_accounts": [
+            {
+                "id": "932-4963",
+                "type": "Bankgiro:"
+            },
+            {
+                "id": "SE2795000099603403751351",
+                "type": "IBAN",
+                "additional_id": "NDEASESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "L-RESTAURANGER AB",
+          "street": "GUTE GRILL",
+          "additional_street": "BRUNNSGATAN 6",
+          "zip": "111 38",
+          "city": "STOCKHOLM"
+        },
+        "actual_delivery_date": "2024-01-04"
+    },
+    "due_date": "2024-02-03",
+    "invoice_id": "7447536",
+    "issue_date": "2024-01-04",
+    "payment_id": "7447536",
+    "customer_id": "998877",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Papper Multicopy A4 115g 400ark/fp",
+                "sellers_item_identification": "88229160"
+            },
+            "price": {
+                "amount": "198.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "198.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "buyer_reference": "SARA RÖRHED",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "3189357"
+    },
+    "supplier_reference": "Ellinor Holm",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "49.50",
+        "payable_amount": "248.00",
+        "tax_exclusive_amount": "198.00",
+        "line_extension_amount": "",
+        "payable_rounding_amount": "0.50"
+    },
+    "document_currency_code": "SEK"
+}
