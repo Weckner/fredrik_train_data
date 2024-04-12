@@ -20,13 +20,11 @@
     "delivery":{
         "address":{
           "street": "Gävlegatan 18"
-
         }
     },
     "due_date": "2024-04-09",
     "invoice_id": "189",
     "issue_date": "2024-03-09",
-    "payment_id": "",
     "customer_id": "11",
     "document_type": "380",
     "invoice_lines": [
@@ -37,13 +35,11 @@
             "price": {
                 "amount": "6500.00"
             },
-            "allowance_charge": [{"charge": false, "percentage": ""}],
             "invoiced_quantity": "1.00",
             "line_extension_amount": "6500.00"
         }
     ],
     "buyer_reference": "Jonathan Gille",
-    "supplier_reference": "Anders Borgström",
     "legal_monetary_total": {
         "tax_percent": "25.00",
         "tax_amount": "1625.00",

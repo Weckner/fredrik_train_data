@@ -4,7 +4,7 @@
         "org_id": "556668-2448",
         "vat_id": "SE556668244801",
         "address": {
-            "street": "Stenhuggarvägen 2 Q",
+            "address_line": "Stenhuggarvägen 2 Q",
             "zip": "132 38",
             "city": "SALTSJÖ-BOO"
         },

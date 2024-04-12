@@ -1,12 +1,12 @@
 {
     "payee": {
-        "email": "tomas_tjardahl@barry-callebaut.com",
         "vat_id": "BE0438950833",
         "address": {
             "address_line": "BARRY CALLEBAUT BELGIUM N.V",
             "street": "AALSTERSESTRAAT 122",
             "zip": "9280",
-            "city": "LEBBEKE"
+            "city": "LEBBEKE",
+            "country": "Belgium"
             
         },
         "telephone": "053730211",
@@ -20,6 +20,10 @@
                 "id": "SE4250000000051181018595",
                 "type": "IBAN",
                 "additional_id": "ESSESESS"
+            },
+            {
+                "id": "51181018595",
+                "type": "local"
             }
         ]
     },
@@ -56,9 +60,9 @@
 
         }
     ],
-    "payment_terms": "Net 30 days fro Invoice Date",
+    "payment_terms": "Net 30 days from Invoice Date",
     "buyer_reference": "@VIA KENT",
-    "supplier_reference": "31540653",
+    "supplier_reference": "31540653/16225513/2919425",
     "legal_monetary_total": {
         "tax_amount": "0.00",
         "payable_amount": "83435.45",

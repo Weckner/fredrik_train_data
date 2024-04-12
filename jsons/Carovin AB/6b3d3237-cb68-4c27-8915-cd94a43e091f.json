@@ -5,7 +5,7 @@
         "org_id": "556672-8670",
         "vat_id": "SE556672867001",
         "address": {
-            "address_line": "Carovin AB ",
+            "address_line": "Carovin AB",
             "street": "Box 24005",
             "zip": "104 50",
             "city": "STOCKHOLM",
@@ -70,6 +70,7 @@
     },
     "supplier_reference": "Henrik Wendel",
     "legal_monetary_total": {
+        "tax_inclusive_amount": "2562.00",
         "tax_percent": "25.00",
         "taxable_amount": "2049.36",
         "tax_amount": "512.34",

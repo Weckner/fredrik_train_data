@@ -20,11 +20,11 @@
     },
     "delivery":{
         "address":{
-          "address_line": "070"
+          "address_line": "070",
+          "street": "LILJESTRANDS FASTIGHETS AB"
         }
     },
     "due_date": "2024-02-20",
-    "invoice_id": "15955404817",
     "issue_date": "2024-03-21",
     "payment_id": "15955404817",
     "tax_totals": [
@@ -79,6 +79,16 @@
     ],
     "payment_terms": "30 dagar netto",
     "buyer_reference": "ANDERS LIMER",
+    "order_reference": {
+        "id": "0079001-01"
+    },
+    "allowance_charges": [
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Fakturaavgift"
+        }
+    ],
     "supplier_reference": "Roger Nilsson",
     "legal_monetary_total": {
         "tax_amount": "127.50",

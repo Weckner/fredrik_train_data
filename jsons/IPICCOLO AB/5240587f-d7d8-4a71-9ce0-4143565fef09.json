@@ -1,13 +1,14 @@
 {
     "payee": {
+        "web": "Svea.com",
+        "email": "swp@svea.com",
         "vat_id": "SE556712577701",
         "address": {
-            "address_line": "LYSMAN.COM, IPICCOLO AB",
-            "street": "BOX 23027",
-            "zip": "75023",
-            "city": "UPPSALA"
-            
+            "address_line": "Svea Bank AB(publ)",
+            "zip": "169 81",
+            "city": "SOLNA"  
         },
+        "telephone": "08-514 931 13",
         "financial_accounts": [
             {
                 "id": "5307-1676",
@@ -52,6 +53,7 @@
         "sales_order_id": "1910217536"
     },
     "legal_monetary_total": {
+        "tax_percent": "25.00",
         "taxable_amount" : "1299.20",
         "tax_amount": "324.80",
         "payable_amount": "1624.00"

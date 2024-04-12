@@ -7,8 +7,7 @@
             "address_line": "Cushman & Wakefield Sweden AB",
             "street": "Box 3637 Regeringsgatan 59",
             "zip": "103 59",
-            "city": "Stockholm",
-            "country": ""
+            "city": "Stockholm"
             
         },
         "telephone": "+40 (372) 836482",
@@ -46,9 +45,6 @@
             "item": {
                 "name": "Värdebedömning av tomträtterna Strömkedjan 1 och Slussmästaren 1 i Stockholms kommun.",
                 "sellers_item_identification": ""
-            },
-            "price": {
-                "amount": "30000.00"
             },
             "line_extension_amount": "30000.00"
         }

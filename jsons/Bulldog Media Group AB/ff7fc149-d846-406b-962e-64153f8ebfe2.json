@@ -24,23 +24,20 @@
             }
         ]
     },
+    "delivery":{
+        "actual_delivery_date": "",
+        "name": ""
+    },
     "due_date": "2024-04-18",
     "invoice_id": "86195",
     "issue_date": "2024-03-19",
     "payment_id": "2020830008619563",
-    "tax_totals": [
-        {
-            "tax_amount": "1482.00",
-            "tax_percent": "25.00",
-            "taxable_amount": "5928.00"
-        }
-    ],
     "customer_id": "35597",
     "document_type": "380",
     "invoice_lines": [
         {
             "item": {
-                "name": "Annons i Schibsted digitalt: Digital påskkampanj 2024 - Schibsteds kanaler Aftonbladet, SvD, Klart.se, TV.nu, Klart. se, Omni.se. Period: 240315 - 240402",
+                "name": "Digital påskkampanj",
                 "tax_percent": "25.00",
                 "sellers_item_identification": "1294"
             },
@@ -71,8 +68,22 @@
         "id": "Åse Edsborg",
         "sales_order_id": ""
     },
+    "allowance_charges": [
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Avgift"
+        },
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Rabatt"
+        }
+    ],
     "supplier_reference": "Andreas Gill",
     "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "1482.00",
         "payable_amount": "7410.00",
         "tax_exclusive_amount": "5928.00"
     },

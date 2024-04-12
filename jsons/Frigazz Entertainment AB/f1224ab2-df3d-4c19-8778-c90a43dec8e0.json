@@ -26,10 +26,6 @@
             "item": {
                 "name": "Sponsring till Brazilian Day 2023"
             },
-            "price": {
-                "amount": "20000.00"
-            },
-            "invoiced_quantity": "1.00",
             "line_extension_amount": "20000.00"
         }
     ],

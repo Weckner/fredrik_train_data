@@ -6,8 +6,7 @@
             "address_line": "Svea Billing Services AB",
             "street": "(Mobivox Telecom)",
             "zip": "169 81",
-            "city": "Solna",
-            "country": ""
+            "city": "Solna"
             
         },
         "telephone": "08-735 29 00",
@@ -42,7 +41,7 @@
     ],
     "legal_monetary_total": {
         "tax_percent": "25.00",
-        "taxable_amount": "49.00",
+        "tax_exclusive_amount": "49.00",
         "tax_amount": "12.25",
         "payable_amount": "61.00",
         "payable_rounding_amount": "-0.25"

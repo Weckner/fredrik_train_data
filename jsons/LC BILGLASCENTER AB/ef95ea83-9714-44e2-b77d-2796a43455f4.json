@@ -56,7 +56,6 @@
         "id": "",
         "sales_order_id": "904547"
     },
-    "supplier_reference": "THOMAS BERGMAN",
     "legal_monetary_total": {
         "tax_amount": "560.00",
         "payable_amount": "2800.00",

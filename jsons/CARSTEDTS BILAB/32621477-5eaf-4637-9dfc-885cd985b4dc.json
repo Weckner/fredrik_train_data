@@ -10,7 +10,7 @@
             
         },
         "telephone": "0660 - 790 00",
-        "fax": "090 - 70 69 30",
+        "fax": "0660 - 156 55",
         "financial_accounts": [
             {
                 "id": "188-4725",
@@ -26,17 +26,6 @@
     "invoice_id": "485963",
     "issue_date": "2024-03-15",
     "payment_id": "485963556174704899",
-    "tax_totals": [
-        {
-            "tax_amount": "2187.50",
-            "tax_percent": "25.00",
-            "taxable_amount": "8750.00"
-        },
-        {
-            "tax_percent": "0.00",
-            "taxable_amount": "0.00"
-        }
-    ],
     "customer_id": "5561747048",
     "document_type": "380",
     "invoice_lines": [
@@ -54,12 +43,13 @@
         }
     ],
     "payment_terms": "30 dagar netto",
-    "buyer_reference": "",
     "order_reference": {
         "sales_order_id": "5440196"
     },
     "supplier_reference": "Johanna Flykt",
     "legal_monetary_total": {
+        "tax_amount": "2187.50",
+        "tax_percent": "25.00",
         "payable_amount": "10938.00",
         "line_extension_amount": "8750.00",
         "payable_rounding_amount": "0.50"

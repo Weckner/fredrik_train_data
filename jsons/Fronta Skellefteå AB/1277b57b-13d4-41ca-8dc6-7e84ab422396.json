@@ -24,7 +24,7 @@
           "zip": "931 36",
           "city": "Skellefteå"
         },
-        "name": "Fritt Fronta"
+        "name": "Enl Överenskommelse"
     },
     "due_date": "2024-04-21",
     "issue_date": "2024-03-22",
@@ -77,7 +77,6 @@
             "reason": "Exp.avgift"
         }
     ],
-    "supplier_reference": "Katarina Lindberg",
     "legal_monetary_total": {
         "tax_amount": "1036.25",
         "payable_amount": "5181.00",

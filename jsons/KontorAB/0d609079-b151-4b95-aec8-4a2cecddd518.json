@@ -5,11 +5,9 @@
         "org_id": "556541-8935",
         "vat_id": "SE556541893501",
         "address": {
-            "address_line": "",
-            "street": "Oxtorgsgatan 4",
+            "address_line": "Oxtorgsgatan 4",
             "zip": "111 57",
-            "city": "Stockholm",
-            "country": ""
+            "city": "Stockholm"
             
         },
         "telephone": "08-4113255",
@@ -23,14 +21,15 @@
     },
     "delivery":{
         "address":{
-          "address_line": "L-RESTAURANGER AB",
-          "street": "BRUNNSGATAN 6",
-          "additional_street": "",
-          "zip": "111 38",
-          "city": "STOCKHOLM"
-        },
+            "address_line": "L-RESTAURANGER AB",
+            "street": "GUTE GRILL",
+            "additional_street": "BRUNNSGATAN 6",
+            "zip": "111 38",
+            "city": "STOCKHOLM"
+          },        
         "actual_delivery_date": "2024-01-10"
     },
+    
     "due_date": "2024-02-09",
     "invoice_id": "7448365",
     "issue_date": "2024-01-10",

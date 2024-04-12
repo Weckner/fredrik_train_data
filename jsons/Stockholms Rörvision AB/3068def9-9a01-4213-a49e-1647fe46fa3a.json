@@ -21,8 +21,7 @@
     },
     "delivery":{
         "address":{
-          "street": "Lärljungevägen 4-6"
-
+          "address_line": "Lärljungevägen 4-6"
         },
         "actual_delivery_date": "2024-02-29",
         "name": ""

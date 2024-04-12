@@ -30,7 +30,10 @@
                 "amount": "4655.00"
             },
             "invoiced_quantity": "",
-            "line_extension_amount": "4655.00"
+            "tax_amount": "",
+            "line_extension_amount": "4655.00",
+            "line_extension_amount_inc_vat": "4655.00"
+
         },
         {
             "item": {
@@ -40,7 +43,10 @@
                 "amount": "546.00"
             },
             "invoiced_quantity": "",
-            "line_extension_amount": "546.00"
+            "tax_amount": "",
+            "line_extension_amount": "546.00",
+            "line_extension_amount_inc_vat": "546.00"
+
         },
         {
             "item": {
@@ -50,7 +56,10 @@
                 "amount": "626.00"
             },
             "invoiced_quantity": "",
-            "line_extension_amount": "626.00"
+            "tax_amount": "",
+            "line_extension_amount": "626.00",
+            "line_extension_amount_inc_vat": "626.00"
+
         }
     ],
     "legal_monetary_total": {

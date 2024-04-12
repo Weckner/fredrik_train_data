@@ -40,7 +40,7 @@
         "tax_percent": "25.00",
         "tax_amount": "-193.80",
         "payable_amount": "-969.00",
-        "tax_exclusive_amount": "-775.20"
+        "taxable_amount": "-775.20"
     },
     "document_currency_code": "SEK"
 }

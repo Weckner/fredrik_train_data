@@ -2,7 +2,7 @@
     "payee": {
         "web": "www.carovin.se",
         "email": "Ekonomi@oenoforos.se",
-        "org_id": "556672-8670 ",
+        "org_id": "556672-8670",
         "vat_id": "SE556672867001",
         "address": {
             "address_line": "Carovin AB",
@@ -43,7 +43,7 @@
                 "sellers_item_identification": "3247201"
             },
             "price": {
-                "amount": "131.92"
+                "amount": "155.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "12.00",
@@ -55,7 +55,7 @@
                 "sellers_item_identification": "X5005HB3001"
             },
             "price": {
-                "amount": "284.92"
+                "amount": "335.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -67,7 +67,7 @@
                 "sellers_item_identification": "X5005BE0101"
             },
             "price": {
-                "amount": "101.32"
+                "amount": "119.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -79,7 +79,7 @@
                 "sellers_item_identification": "X5005BE0201"
             },
             "price": {
-                "amount": "101.32"
+                "amount": "119.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -91,7 +91,7 @@
                 "sellers_item_identification": "X5005BE0501"
             },
             "price": {
-                "amount": "244.12"
+                "amount": "287.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -103,7 +103,7 @@
                 "sellers_item_identification": "X5005BE0301"
             },
             "price": {
-                "amount": "223.72"
+                "amount": "263.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -115,7 +115,7 @@
                 "sellers_item_identification": "X5005BE0401"
             },
             "price": {
-                "amount": "223.72"
+                "amount": "263.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "6.00",
@@ -127,7 +127,7 @@
                 "sellers_item_identification": "X5005AG1101"
             },
             "price": {
-                "amount": "672.52"
+                "amount": "791.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "2.00",
@@ -139,7 +139,7 @@
                 "sellers_item_identification": "X5005AG1301"
             },
             "price": {
-                "amount": "223.72"
+                "amount": "263.20"
             },
             "allowance_charge": [{"charge": false, "percentage": "15.00"}],
             "invoiced_quantity": "2.00",

@@ -67,6 +67,7 @@
     "payment_terms": "30 dagar",
     "buyer_reference": "Sara Rörhed",
     "legal_monetary_total": {
+        "tax_percent": "25.00",
         "tax_amount": "1677.00",
         "payable_amount": "8385.00",
         "tax_exclusive_amount": "6708.00"

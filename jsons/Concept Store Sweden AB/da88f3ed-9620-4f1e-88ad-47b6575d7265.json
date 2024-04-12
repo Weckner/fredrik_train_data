@@ -8,7 +8,8 @@
             "address_line": "Concept Store Sweden AB",
             "street": "Åsögatan 140 1TR",
             "zip": "116 24",
-            "city": "STOCKHOLM"
+            "city": "STOCKHOLM",
+            "country": "Sverige"
             
         },
         "telephone": "+46704266622",
@@ -30,7 +31,8 @@
         ]
     },
     "delivery":{
-        "name": ""
+        "name": "",
+        "actual_delivery_date": ""
     },
     "due_date": "2024-02-23",
     "invoice_id": "1040",

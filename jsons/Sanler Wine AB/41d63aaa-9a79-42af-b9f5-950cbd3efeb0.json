@@ -1,7 +1,6 @@
 {
     "payee": {
-        "web": "info@sanlerwine.se",
-        "email": "",
+        "email": "info@sanlerwine.se",
         "org_id": "559216-8263",
         "vat_id": "SE556629563901",
         "address": {
