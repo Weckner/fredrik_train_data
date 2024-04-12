@@ -1,0 +1,172 @@
+{
+    "payee": {
+        "vat_id": "SE556316762501",
+        "address": {
+            "address_line": "Enhagsvägen 10",
+            "zip": "187 40",
+            "city": "TÄBY"
+            
+        },
+        "telephone": "08-664 20 00",
+        "financial_accounts": [
+            {
+                "id": "944-1049",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE1780000848061833109000",
+                "type": "IBAN",
+                "additional_id": "SWEDSESS"
+            },
+            {
+                "id": "1833109000",
+                "type": "local"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Vaksalagatan 3, Uppsala",
+          "street": "Vån 1 med hiss, reception"
+        },
+        "name": ""
+    },
+    "due_date": "2024-03-04",
+    "invoice_id": "9830-028234",
+    "issue_date": "2024-02-13",
+    "payment_id": "983002823422",
+    "customer_id": "51710",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Champangeglas, Prinsessa 15cl."
+            },
+            "price": {
+                "amount": "3.20"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "80.00",
+            "line_extension_amount": "256.00"
+        },
+        {
+            "item": {
+                "name": "Vinglas 23 cl, Prinsessa, normal"
+            },
+            "price": {
+                "amount": "3.20"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "80.00",
+            "line_extension_amount": "256.00"
+        },
+        {
+            "item": {
+                "name": "Dessert-Förrättstallrik 20 cm FY"
+            },
+            "price": {
+                "amount": "4.20"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "90.00",
+            "line_extension_amount": "378.00"
+        },
+        {
+            "item": {
+                "name": "Flaskkylskpå, rostfri med glasfr"
+            },
+            "price": {
+                "amount": "476.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "476.00"
+        },
+        {
+            "item": {
+                "name": "Kyl måste stpå upp under leverans"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "Inställning för kyla ska normalt"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "Låt kylen kylas ner ett par timm"
+            },
+            "price": {
+                "amount": "0.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "0.00"
+        },
+        {
+            "item": {
+                "name": "Gaffel Dessert/ Förrätt STANDARD"
+            },
+            "price": {
+                "amount": "2.80"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "80.00",
+            "line_extension_amount": "224.00"
+        },
+        {
+            "item": {
+                "name": "Leverans / returkörning gatuplan"
+            },
+            "price": {
+                "amount": "3200.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "3200.00"
+        },
+        {
+            "item": {
+                "name": "Upp / ner med hiss"
+            },
+            "price": {
+                "amount": "400.00"
+            },
+            "allowance_charges": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "400.00"
+        }
+    ],
+    "buyer_reference": "Jaqueline Hippi",
+    "payment_terms": "",
+    "supplier_reference": "",
+    "order_reference": {
+        "id": "RESTAURANG GUTE"
+    },
+    "allowance_charges": [
+        {
+            "amount": "50.00",
+            "charge": true,
+            "reason": "Fakturaavgift"
+        }
+    ],
+    "legal_monetary_total": {
+        "tax_amount": "1310.00",
+        "payable_amount": "6550.00",
+        "tax_exclusive_amount": "5240.98",
+        "payable_rounding_amount": ""
+    },
+    "document_currency_code": "SEK"
+}

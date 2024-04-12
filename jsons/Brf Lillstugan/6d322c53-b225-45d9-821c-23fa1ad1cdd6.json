@@ -1,0 +1,57 @@
+{
+    "payee": {
+        "web": "sbc.se",
+        "org_id": "769616-9924",
+        "vat_id": "SE769616992401",
+        "address": {
+            "address_line": "SBC",
+            "street": "Box 226",
+            "zip": "85104",
+            "city": "SUNDSVALL"
+            
+        },
+        "telephone": "0771 722 722",
+        "financial_accounts": [
+            {
+                "id": "852-9398",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-28",
+    "invoice_id": "10020272304441",
+    "issue_date": "2024-03-05",
+    "payment_id": "10020272304441",
+    "customer_id": "1239194820",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Hyra lokal, april-juni Baskostnad 126 000 kr, indexkostnad 34 334 kr"
+            },
+            "price": {
+                "amount": "160334.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "",
+            "line_extension_amount": "160334.00"
+        },
+        {
+            "item": {
+                "name": "Hyra enl tilläggsavtal, 4 st gallerförråd, april-juni Baskostnad 1 000 kr, indexkostnad 273 kr"
+            },
+            "price": {
+                "amount": "1273.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "",
+            "line_extension_amount": "1273.00"
+        }
+    ],
+    "legal_monetary_total": {
+        "tax_amount": "40402.00",
+        "payable_amount": "202009.00",
+        "tax_exclusive_amount": "161607.00"
+    },
+    "document_currency_code": "SEK"
+}

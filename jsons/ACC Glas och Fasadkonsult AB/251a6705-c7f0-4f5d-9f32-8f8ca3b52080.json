@@ -1,0 +1,99 @@
+{
+    "payee": {
+        "web": "www.acc-glas.se",
+        "email": "ekonomi@acc-glas.se",
+        "org_id": "556343-2052",
+        "vat_id": "SE556343205201",
+        "address": {
+            "address_line": "ACC Glas och Fasadkonsult AB",
+            "street": "Peter Myndes Backe 12",
+            "zip": "11846",
+            "city": "Stockholm",
+            "country": "Sverige"
+            
+        },
+        "telephone": "08-55618370",
+        "financial_accounts": [
+            {
+                "id": "5455-1379",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE6660000000000847837068",
+                "type": "IBAN",
+                "additional_id": "HANDSESS"
+            }
+        ]
+    },
+    "due_date": "2024-03-03",
+    "invoice_id": "26063",
+    "issue_date": "2024-02-02",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Anneli Davidsson",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1090.00"
+            },
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "2180.00"
+        },
+        {
+            "item": {
+                "name": "Johannes Persson",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1290.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "7740.00"
+        },
+        {
+            "item": {
+                "name": "Lisa Wingö",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1090.00"
+            },
+            "invoiced_quantity": "13.00",
+            "line_extension_amount": "14170.00"
+        },
+        {
+            "item": {
+                "name": "Olivier de Rooij",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1290.00"
+            },
+            "invoiced_quantity": "26.00",
+            "line_extension_amount": "33540.00"
+        },
+        {
+            "item": {
+                "name": "Öresavrundning"
+            },
+            "price": {
+                "amount": "0.50"
+            },
+            "line_extension_amount": "0.50"
+        }
+    ],
+    "buyer_reference": "Gustavo Catenacc",
+    "supplier_reference": "Olivier de Rooij",
+    "legal_monetary_total": {
+        "tax_amount": "14407.50",
+        "payable_amount": "72038.00",
+        "tax_exclusive_amount": "57630.00"
+    },
+    "document_currency_code": "SEK"
+}

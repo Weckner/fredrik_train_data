@@ -1,0 +1,87 @@
+{
+    "payee": {
+        "vat_id": "SE556142801101",
+        "address": {
+            "address_line": "Akzo Nobel Decorative Coatings AB ",
+            "street": "Staffanstorpsvägen 50",
+            "zip": "232 61",
+            "city": "Arlöv"
+            
+        },
+        "telephone": "010-4405970",
+        "financial_accounts": [
+            {
+                "id": "264-0910",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-01-08",
+    "invoice_id": "IN02002221",
+    "issue_date": "2023-12-09",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "line_id": "1",
+            "item": {
+                "name": "Tomburk Plast Vit 2,5L",
+                "sellers_item_identification": "266933"
+            },
+            "price": {
+                "amount": "7.20"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "7.20"
+        },
+        {
+            "line_id": "2",
+            "item": {
+                "name": "NO Pro 7 S 0500-N 2,5 L",
+                "sellers_item_identification": "5798889"
+            },
+            "price": {
+                "amount": "218.25"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "218.25"
+        },
+        {
+            "line_id": "3",
+            "item": {
+                "name": "Tesa Precision Mask 4334 50m x 9mm",
+                "sellers_item_identification": "6304660"
+            },
+            "price": {
+                "amount": "37.76"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "37.76"
+        },
+        {
+            "line_id": "4",
+            "item": {
+                "name": "Lock Elp Vit Esc+ Af 2,5L Emsafe St",
+                "sellers_item_identification": "2000766"
+            },
+            "price": {
+                "amount": "5.90"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "5.90"
+        }
+    ],
+    "payment_terms": "30 days date of invoice",
+    "buyer_reference": "TOMAS",
+    "order_reference": {
+        "sales_order_id": "SO03002493"
+    },
+    "supplier_reference": "Erwin Olsson",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "67.28",
+        "payable_amount": "336.00",
+        "line_extension_amount": "269.11",
+        "payable_rounding_amount": "-0.39"
+    },
+    "document_currency_code": "SEK"
+}

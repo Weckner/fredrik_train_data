@@ -1,0 +1,75 @@
+{
+    "payee": {
+        "web": "http://vdwines.se",
+        "email": "viktor@vdwines.se",
+        "org_id": "556734-8015",
+        "vat_id": "",
+        "address": {
+            "address_line": "VD Wines AB",
+            "country": "Sverige"
+            
+        },
+        "telephone": "+46735657401",
+        "financial_accounts": [
+            {
+                "id": "5549-3399",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "street": "LÄRJUNGEVÄGEN 4",
+          "zip": "13669",
+          "city": "Vendelsö",
+          "country": "Sverige"
+        }
+    },
+    "due_date": "2023-12-28",
+    "invoice_id": "20234307",
+    "issue_date": "2023-11-28",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Quinta do Cardo, Tinto"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "95.00"
+            },
+            "invoiced_quantity": "36.00",
+            "line_extension_amount": "3420.00"
+        },
+        {
+            "item": {
+                "name": "Quinta do Cardo, Branco"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "95.00"
+            },
+            "invoiced_quantity": "12.00",
+            "line_extension_amount": "1140.00"
+        },
+        {
+            "item": {
+                "name": "Vinarija Kovacevic, Aurelius"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "179.00"
+            },
+            "invoiced_quantity": "12.00",
+            "line_extension_amount": "2148.00"
+        }
+    ],
+    "payment_terms": "30 dagar",
+    "buyer_reference": "Sara Rörhed",
+    "legal_monetary_total": {
+        "tax_amount": "1677.00",
+        "payable_amount": "8385.00",
+        "tax_exclusive_amount": "6708.00"
+    },
+    "document_currency_code": "SEK"
+}

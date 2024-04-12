@@ -1,0 +1,70 @@
+{
+    "payee": {
+        "web": "www.acc-glas.se",
+        "email": "ekonomi@acc-glas.se",
+        "org_id": "556343-2052",
+        "vat_id": "SE556343205201",
+        "address": {
+            "address_line": "ACC Glas och Fasadkonsult AB",
+            "street": "Peter Myndes Backe 12",
+            "zip": "11846",
+            "city": "Stockholm",
+            "country": "Sverige"
+            
+        },
+        "telephone": "08-55618370",
+        "financial_accounts": [
+            {
+                "id": "5455-1379",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "SE6660000000000847837068",
+                "type": "IBAN",
+                "additional_id": "HANDSESS"
+            }
+        ]
+    },
+    "due_date": "2024-05-03",
+    "invoice_id": "26429",
+    "issue_date": "2024-04-03",
+    "payment_id": "26429",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Lisa Wingö",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1090.00"
+            },
+            "invoiced_quantity": "29.00",
+            "line_extension_amount": "31610.00"
+        },
+        {
+            "item": {
+                "name": "Olivier de Rooi",
+                "tax_percent": "25.00"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "1290.00"
+            },
+            "invoiced_quantity": "9.00",
+            "line_extension_amount": "11610.00"
+        }
+    ],
+    "buyer_reference": "Gustavo",
+    "order_reference": {
+        "sales_order_id": "LuB Slussen"
+    },
+    "supplier_reference": "Olivier de Rooij",
+    "legal_monetary_total": {
+        "tax_amount": "10805.00",
+        "payable_amount": "54025.00",
+        "tax_exclusive_amount": "43220.00"
+    },
+    "document_currency_code": "SEK"
+}

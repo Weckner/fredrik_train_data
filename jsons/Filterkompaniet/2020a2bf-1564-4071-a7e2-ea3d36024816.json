@@ -1,0 +1,53 @@
+{
+    "payee": {
+        "web": "www.filterkompaniet.se",
+        "email": "faktura@filterkompaniet.se",
+        "org_id": "559400-4458",
+        "address": {
+            "address_line": "Filterkompaniet Stockholm AB",
+            "street": "Götlundagatan 10",
+            "zip": "124 71",
+            "city": "Bandhagen"
+            
+        },
+        "financial_accounts": [
+            {
+                "id": "5928-6856",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-04",
+    "invoice_id": "1050",
+    "issue_date": "2024-02-13",
+    "customer_id": "5566091277",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Påsfilter XL 1my Påsfilter XL 1 My",
+                "sellers_item_identification": "139741"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "250.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "10.00"}],
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "2250.00"
+        }
+    ],
+    "payment_terms": "20 dagar",
+    "buyer_reference": "Pasi Koponen",
+    "order_reference": {
+        "id": "Lillstugan 1. 112"
+    },
+    "supplier_reference": "Mats Kindlund",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "562.50",
+        "payable_amount": "2813.00",
+        "tax_exclusive_amount": "2250.00",
+        "payable_rounding_amount": "0.50"
+    }
+}

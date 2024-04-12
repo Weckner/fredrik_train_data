@@ -1,0 +1,113 @@
+{
+    "payee": {
+        "org_id": "559175-6688",
+        "vat_id": "SE559175668801",
+        "address": {
+            "address_line": "agood.com company sweden AB",
+            "street": "Värdshusvägen 7",
+            "zip": "18163",
+            "city": "Lidingö"
+            
+        },
+        "financial_accounts": [
+            {
+                "id": "SE1250000000050808202545",
+                "type": "Account",
+                "additional_id": "ESSESESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "Blique AB",
+          "street": "Gävlegatan 18",
+          "zip": "113 30",
+          "city": "Stockholm"
+        },
+        "actual_delivery_date": "2024-01-31"
+
+    },
+    "due_date": "2024-03-01",
+    "invoice_id": "3076",
+    "issue_date": "2024-01-31",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "",
+                "tax_percent": "25.00",
+                "tax_amount": "387.50",
+                "description": "Classic water bottle, recycled steel + Logo"
+            },
+            "price": {
+                "amount": "15.50"
+            },
+            "invoiced_quantity": "100.00",
+            "line_extension_amount": "1550.00"
+        },
+        {
+            "item": {
+                "name": "",
+                "tax_percent": "25.00",
+                "tax_amount": "337.50",
+                "description": "Hardcover stone paper notebook + logo"
+            },
+            "price": {
+                "amount": "13.50"
+            },
+            "invoiced_quantity": "100.00",
+            "line_extension_amount": "1350.00"
+        },
+        {
+            "item": {
+                "name": "Multi-Charging Cable, made from recycled materials",
+                "tax_percent": "25.00",
+                "tax_amount": "675.00",
+                "description": "SKU: 7333347044653"
+            },
+            "price": {
+                "amount": "9.00"
+            },
+            "invoiced_quantity": "300.00",
+            "line_extension_amount": "2700.00"
+        },
+        {
+            "item": {
+                "name": "",
+                "tax_percent": "25.00",
+                "tax_amount": "105.50",
+                "description": "Bamboo Toothbrush - white +logo"
+            },
+            "price": {
+                "amount": "1.40"
+            },
+            "invoiced_quantity": "300.00",
+            "line_extension_amount": "420.00"
+        },
+        {
+            "item": {
+                "name": "",
+                "tax_percent": "25.00",
+                "tax_amount": "32.50",
+                "description": "Custom"
+            },
+            "price": {
+                "amount": "130.00"
+            },
+            "invoiced_quantity": "300.00",
+            "line_extension_amount": "130.00"
+        }
+    ],
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "#b2b3076agood"
+    },
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "1537.50",
+        "payable_amount": "7687.50",
+        "tax_exclusive_amount": "6150.00",
+        "line_extension_amount": "6150.00"
+    },
+    "document_currency_code": "EUR"
+}

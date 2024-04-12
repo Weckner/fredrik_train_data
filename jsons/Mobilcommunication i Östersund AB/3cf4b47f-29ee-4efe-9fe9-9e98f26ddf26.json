@@ -1,0 +1,77 @@
+{
+    "payee": {
+        "vat_id": "SE556487882401",
+        "address": {
+            "address_line": "Mobilcommunication i Östersund AB T",
+            "street": "Fagerbacken 80 ",
+            "zip": "831 48",
+            "city": "ÖSTERSUND"
+            
+        },
+        "telephone": "063-574200",
+        "financial_accounts": [
+            {
+                "id": "5826-2627",
+                "type": "Bankgiro"
+            },
+            {
+                "id": "540291-2",
+                "type": "Postgiro"
+            },
+            {
+                "id": "SE7795000099602605402912",
+                "type": "IBAN",
+                "additional_id": "NDEASESS"
+            }
+        ]
+    },
+    "delivery":{
+        "name": "FRITT VÅRT LAGER"
+    },
+    "due_date": "2024-02-24",
+    "invoice_id": "90242",
+    "issue_date": "2024-01-25",
+    "customer_id": "705363392",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "JABRA EVOLVE2 65 MONO",
+                "sellers_item_identification": "5706991023046"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2116.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "12.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "1862.40"
+        }
+    ],
+    "payment_terms": "30 DAGAR NETTO",
+    "buyer_reference": "Mats Edling",
+    "order_reference": {
+        "id": "",
+        "sales_order_id": "137263"
+    },
+    "allowance_charges": [
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Exp.avg"
+        },
+        {
+            "amount": "0.00",
+            "charge": true,
+            "reason": "Frakt"
+        }
+    ],
+    "supplier_reference": "Johan Garber",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "465.60",
+        "payable_amount": "2328.00",
+        "line_extension_amount": "1862.40",
+        "payable_rounding_amount": "0.00"
+    }
+}

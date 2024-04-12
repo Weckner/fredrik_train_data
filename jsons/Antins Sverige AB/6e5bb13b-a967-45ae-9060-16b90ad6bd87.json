@@ -1,0 +1,54 @@
+{
+    "payee": {
+        "email": "marcus@antins.se",
+        "org_id": "5567071062",
+        "vat_id": "SE556707106201",
+        "address": {
+            "address_line": "Antins Sverige AB",
+            "street": "Blomstervägen 7B",
+            "zip": "131 37",
+            "city": "Nacka",
+            "country": ""
+            
+        },
+        "telephone": "070-275 87 00",
+        "financial_accounts": [
+            {
+                "id": "347-2024",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "delivery":{
+        "name": "Fritt vårt lager"
+    },
+    "due_date": "2024-02-11",
+    "issue_date": "2024-01-12",
+    "payment_id": "18150",
+    "customer_id": "2",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "IT Projektering",
+                "tax_percent": "25.00",
+                "sellers_item_identification": "0002"
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "60000.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "75000.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "buyer_reference": "Alessandro Catenacci",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "15000.00",
+        "payable_amount": "75000.00",
+        "tax_exclusive_amount": "60000.00"
+    }
+}

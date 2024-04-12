@@ -1,0 +1,77 @@
+{
+    "payee": {
+        "web": "info@sanlerwine.se",
+        "email": "",
+        "org_id": "559216-8263",
+        "vat_id": "SE556629563901",
+        "address": {
+            "address_line": "Sanler Wine AB",
+            "street": "Moränvägen 1",
+            "zip": "192 67",
+            "city": "Sollentuna"
+            
+        },
+        "telephone": "07678223018",
+        "financial_accounts": [
+            {
+                "id": "5513-1254",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2024-03-03",
+    "invoice_id": "417",
+    "issue_date": "2024-02-02",
+    "payment_id": "417",
+    "customer_id": "70",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "Chateau de Chambrun 'LE BOURG'- 2018",
+                "tax_percent": "25.00",
+                "sellers_item_identification": ""
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "1266.00"
+            },
+            "invoiced_quantity": "3.00",
+            "line_extension_amount": "3798.00"
+        },
+        {
+            "item": {
+                "name": "Chateau de Chambrun 2018, Lalande de Pomerol",
+                "tax_percent": "25.00",
+                "sellers_item_identification": "93873"
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "299.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "1794.00"
+        },
+        {
+            "item": {
+                "name": "Chateau de Chambrun 2016, Lalande de Pomerol, 69% Merlot 25% Cab Franc 6% Cab Sauv",
+                "tax_percent": "25.00",
+                "sellers_item_identification": "52263"
+            },
+            "price": {
+                "unit": "styck",
+                "amount": "359.00"
+            },
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "2154.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "legal_monetary_total": {
+        "tax_percent": "25.00",
+        "tax_amount": "1936.50",
+        "payable_amount": "9683.00",
+        "tax_exclusive_amount": "7746.00",
+        "payable_rounding_amount": "0.50"
+    }
+}

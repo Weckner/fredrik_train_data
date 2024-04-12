@@ -1,0 +1,83 @@
+{
+    "payee": {
+        "web": "www.polarmatic.com",
+        "email": "polarmatic@polarmatic.com",
+        "org_id": "",
+        "fo_id": "0153659-5",
+        "vat_id": "FI01536595",
+        "address": {
+            "address_line": "Polarmatic Oy",
+            "street": "Ahertajankatu 9",
+            "zip": "33720",
+            "city": "Tampere",
+            "country": "FINLAND"
+            
+        },
+        "telephone": "010 397 9100",
+        "fax": "0103979101",
+        "financial_accounts": [
+            {
+                "id": "FI11 2046 1800 1230 44",
+                "type": "local",
+                "additional_id": "NDEAFIHH"
+            }
+        ]
+    },
+    "due_date": "2024-03-05",
+    "invoice_id": "10862",
+    "issue_date": "2024-02-20",
+    "payment_id": "1108626",
+    "customer_id": "58",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "OIL BURNER NOZZLE 1.0 MW 9,5 60°",
+                "tax_percent": "0.00",
+                "sellers_item_identification": "03"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "17.16"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "15.00"}],
+            "invoiced_quantity": "8.00",
+            "line_extension_amount": "116.69"
+        },
+        {
+            "item": {
+                "name": "OIL BURNER NOZZLE 1.5 MW15,5 60°",
+                "tax_percent": "0.00",
+                "sellers_item_identification": "03"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "17.16"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "15.00"}],
+            "invoiced_quantity": "4.00",
+            "line_extension_amount": "58.34"
+        },
+        {
+            "item": {
+                "name": "Shipping & Handling",
+                "tax_percent": "0.00",
+                "sellers_item_identification": "04"
+            },
+            "price": {
+                "unit": "st",
+                "amount": "66.27"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "0.00"}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "66.27"
+        }
+    ],
+    "payment_terms": "14 dagar netto",
+    "buyer_reference": "Gustav Dahlgren",
+    "legal_monetary_total": {
+        "payable_amount": "241.30",
+        "tax_exclusive_amount": "241.30"
+    },
+    "document_currency_code": "EUR"
+}

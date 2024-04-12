@@ -1,0 +1,89 @@
+{
+    "payee": {
+        "email": "info.nord@linde-mh.se",
+        "org_id": "556637-3196",
+        "vat_id": "SE556637319601",
+        "address": {
+            "address_line": "NORDTRUCK AB",
+            "street": "BOX 171",
+            "zip": "891 24",
+            "city": "ÖRNSKÖLDSVIK"
+            
+        },
+        "telephone": "0660265590",
+        "financial_accounts": [
+            {
+                "id": "SE2650000000055651076964",
+                "type": "IBAN",
+                "additional_id": "ESSESESS"
+            }
+        ]
+    },
+    "delivery":{
+        "address":{
+          "address_line": "DAHLGRENS CEMENTGJUTERI AB",
+          "street": "MEDELVÄGEN 294",
+          "zip": "931 98",
+          "city": "SKELLEFTEÅ"
+        }
+    },
+    "due_date": "2024-04-01",
+    "invoice_id": "142782",
+    "issue_date": "2024-03-12",
+    "tax_totals": [
+        {
+            "tax_amount": "632.55",
+            "tax_percent": "25.00",
+            "vat_id": "1"
+        }
+    ],
+    "customer_id": "770280",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "line_id": "1",
+            "item": {
+                "name": "GASFJÄDER",
+                "vat_id": "1",
+                "sellers_item_identification": "0009655753"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2125.20"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "2125.20"
+        },
+        {
+            "line_id": "2",
+            "item": {
+                "name": "FRAKTEMBALLAGE",
+                "vat_id": "1",
+                "sellers_item_identification": "1"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "405.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": ""}],
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "405.00"
+        }
+    ],
+    "payment_terms": "20 DAGAR NETTO",
+    "buyer_reference": "RICKARD DAHLQVIST",
+    "order_reference": {
+        "id": "RICKARD DAHLQVIST",
+        "sales_order_id": "323745"
+    },
+    "supplier_reference": "PER-ARNE SÄLL",
+    "legal_monetary_total": {
+        "tax_amount": "632.55",
+        "payable_amount": "3163.00",
+        "tax_exclusive_amount": "",
+        "line_extension_amount": "2530.20",
+        "payable_rounding_amount": "0.25"
+    },
+    "document_currency_code": "SEK"
+}

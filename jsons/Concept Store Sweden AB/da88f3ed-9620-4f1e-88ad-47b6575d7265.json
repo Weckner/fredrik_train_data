@@ -6,10 +6,9 @@
         "vat_id": "SE556790452801",
         "address": {
             "address_line": "Concept Store Sweden AB",
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Åsögatan 140 1TR",
+            "zip": "116 24",
+            "city": "STOCKHOLM"
             
         },
         "telephone": "+46704266622",

@@ -1,98 +1,73 @@
 {
     "payee": {
-        "web": "",
-        "email": "",
-        "org_id": "",
-        "vat_id": "",
+        "web": "www.mrplant.se",
+        "email": "info@mrplant.se",
+        "org_id": "556485-3256",
+        "vat_id": "SE556485325601",
         "address": {
-            "address_line": "",
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "address_line": "Mr Plant AB",
+            "street": "Nolgårdsgatan",
+            "zip": "522 37",
+            "city": "TIDAHOLM",
+            "country": "SWEDEN"
             
         },
-        "telephone": "",
+        "telephone": "+46 502 18880",
         "financial_accounts": [
             {
-                "id": "",
-                "type": ""
-            },
-            {
-                "id": "",
-                "type": "",
-                "additional_id": ""
+                "id": "SE8880000835430030742381",
+                "type": "IBAN",
+                "additional_id": "SWEDSESS"
             }
         ]
     },
     "delivery":{
-        "address":{
-          "address_line": "",
-          "street": "",
-          "additional_street": "",
-          "zip": "",
-          "city": "",
-          "country": ""
-        },
-        "actual_delivery_date": "",
-        "name": ""
+        "name": "Avsändarfrakt"
     },
-    "due_date": "",
+    "due_date": "2024-02-29",
     "invoice_id": "202485",
-    "issue_date": "",
-    "payment_id": "",
-    "tax_totals": [
-        {
-            "tax_amount": "",
-            "tax_percent": "",
-            "taxable_amount": ""
-        }
-    ],
+    "issue_date": "2024-01-22",
     "customer_id": "84939",
     "document_type": "380",
     "invoice_lines": [
         {
-            "line_id": "",
+            "line_id": "1",
             "item": {
-                "name": "",
-                "description": "",
-                "additional_item_properties": [
-                    {
-                        "name": "",
-                        "value": ""
-                    }
-                ],
+                "name": "Fikus Robusta",
+                "sellers_item_identification": "3952-90-1"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "59.00"
+            },
+            "invoiced_quantity": "12.00",
+            "line_extension_amount": "708.00"
+        },
+        {
+            "line_id": "2",
+            "item": {
+                "name": "Frakt inrikes",
                 "sellers_item_identification": ""
             },
             "price": {
-                "unit": "",
                 "amount": ""
             },
-            "allowance_charge": [{"charge": false, "percentage": ""}],
             "invoiced_quantity": "",
-            "line_extension_amount": ""
+            "line_extension_amount": "98.00"
         }
     ],
-    "payment_terms": "",
-    "buyer_reference": "",
+    "payment_terms": "30 dagar netto",
+    "buyer_reference": "Åse Edsborg",
     "order_reference": {
-        "id": "Åse Edsborg",
-        "sales_order_id": "Sofia Häll"
+        "id": "",
+        "sales_order_id": "H46579-1"
     },
-    "allowance_charges": [
-        {
-            "amount": "",
-            "charge": true,
-            "reason": ""
-        }
-    ],
-    "supplier_reference": "",
+    "supplier_reference": "Sofia Häll",
     "legal_monetary_total": {
-        "tax_amount": "",
-        "payable_amount": "",
-        "tax_exclusive_amount": "",
-        "line_extension_amount": "",
-        "payable_rounding_amount": ""
+        "tax_amount": "201.50",
+        "payable_amount": "1008.00",
+        "tax_exclusive_amount": "806.00",
+        "payable_rounding_amount": "0.50"
     },
-    "document_currency_code": ""
+    "document_currency_code": "SEK"
 }

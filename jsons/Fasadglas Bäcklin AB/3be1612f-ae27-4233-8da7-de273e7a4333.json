@@ -1,0 +1,220 @@
+{
+    "payee": {
+        "web": "www.fasadglas.se",
+        "email": "info@fasadglas.se",
+        "org_id": "55563259547",
+        "vat_id": "SE5556325954701",
+        "address": {
+            "address_line": "Fasadglas Bäcklin AB",
+            "street": "Box 11187",
+            "zip": "161 11",
+            "city": "BROMMA"
+            
+        },
+        "telephone": "08-704 74 00",
+        "fax": "",
+        "financial_accounts": [
+            {
+                "id": "5413-1628",
+                "type": "Bankgiro"
+            }
+        ]
+    },
+    "due_date": "2023-12-08",
+    "invoice_id": "8370238367998",
+    "issue_date": "2023-11-08",
+    "tax_totals": [
+        {
+            "tax_amount": "5210.98",
+            "tax_percent": "25.00",
+            "taxable_amount": "20843.92"
+        }
+    ],
+    "customer_id": "83104",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "CLEARVISION 8 MM 130 x 891 mm",
+                "sellers_item_identification": "IF8OPTI"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2439.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "6.00",
+            "line_extension_amount": "3073.14"
+        },
+        {
+            "item": {
+                "name": "SLIPNING FLOAT 3-6 MM OMKRETS",
+                "sellers_item_identification": "slip3-6o"
+            },
+            "price": {
+                "amount": "67.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "12.25",
+            "line_extension_amount": "574.53"
+        },
+        {
+            "item": {
+                "name": "CLEARVISION 8 MM 130 x 888 mm",
+                "sellers_item_identification": "IF8OPTI"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2439.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "1024.38"
+        },
+        {
+            "item": {
+                "name": "SLIPNING FLOAT 3-6 MM OMKRETS",
+                "sellers_item_identification": "slip3-6o"
+            },
+            "price": {
+                "amount": "67.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "4.07",
+            "line_extension_amount": "190.88"
+        },
+        {
+            "item": {
+                "name": "CLEARVISION 8 MM 130 x 892 mm",
+                "sellers_item_identification": "IF8OPTI"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2439.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "1024.38"
+        },
+        {
+            "item": {
+                "name": "SLIPNING FLOAT 3-6 MM OMKRETS",
+                "sellers_item_identification": "slip3-6o"
+            },
+            "price": {
+                "amount": "67.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "4.09",
+            "line_extension_amount": "191.82"
+        },
+        {
+            "item": {
+                "name": "CLEARVISION 8 MM 130 x 885 mm",
+                "sellers_item_identification": "IF8OPTI"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "2439.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "1024.38"
+        },
+        {
+            "item": {
+                "name": "SLIPNING FLOAT 3-6 MM OMKRETS",
+                "sellers_item_identification": "slip3-6o"
+            },
+            "price": {
+                "amount": "67.00"
+            },
+            "allowance_charge": [{"charge": false, "percentage": "30.00"}],
+            "invoiced_quantity": "4.06",
+            "line_extension_amount": "190.41"
+        },
+        {
+            "item": {
+                "name": "L-list 19 x 19 x 130 mm",
+                "sellers_item_identification": "M"
+            },
+            "price": {
+                "amount": "80.00"
+            },
+            "invoiced_quantity": "10.00",
+            "line_extension_amount": "800.00"
+        },
+        {
+            "item": {
+                "name": "Lackering",
+                "sellers_item_identification": "M"
+            },
+            "price": {
+                "amount": "750.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "750.00"
+        },
+        {
+            "item": {
+                "name": "ARBETSKOSTNAD",
+                "sellers_item_identification": "ARB"
+            },
+            "price": {
+                "unit": "tim",
+                "amount": "595.00"
+            },
+            "invoiced_quantity": "17.00",
+            "line_extension_amount": "10115.00"
+        },
+        {
+            "item": {
+                "name": "SERVICEBIL",
+                "sellers_item_identification": "BIL"
+            },
+            "price": {
+                "amount": "795.00"
+            },
+            "invoiced_quantity": "2.00",
+            "line_extension_amount": "1590.00"
+        },
+        {
+            "item": {
+                "name": "FÖRBRUKNINGSMATERIAL",
+                "sellers_item_identification": "IFM"
+            },
+            "price": {
+                "unit": "ST",
+                "amount": "295.00"
+            },
+            "invoiced_quantity": "1.00",
+            "line_extension_amount": "295.00"
+        }
+    ],
+    "payment_terms": "30 Dagar",
+    "buyer_reference": "Victor Bohlin",
+    "order_reference": {
+        "id": "Sveavägen 48",
+        "sales_order_id": "172364"
+    },
+    "allowance_charges": [
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Frakt"
+        },
+        {
+            "amount": "",
+            "charge": true,
+            "reason": "Avgift"
+        }
+    ],
+    "supplier_reference": "Thomas Eriksson",
+    "legal_monetary_total": {
+        "tax_amount": "5210.98",
+        "payable_amount": "26055.00",
+        "line_extension_amount": "20843.92",
+        "payable_rounding_amount": "0.10"
+    },
+    "document_currency_code": "SEK"
+}

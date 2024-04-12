@@ -1,0 +1,45 @@
+{
+    "payee": {
+        "address": {
+            "address_line": "MIKAEL NORDGREN",
+            "street": "VALLA TORG 89",
+            "zip": "12056",
+            "city": "ARSTA",
+            "country": "SWEDEN"
+            
+        },
+        "financial_accounts": [
+            {
+                "id": "SE1150000000052091002925",
+                "type": "IBAN",
+                "additional_id": "ESSESESS"
+            },
+            {
+                "id": "10 02925",
+                "type": "local",
+                "additional_id": "5209"
+            }
+        ]
+    },
+    "due_date": "Immediately",
+    "invoice_id": "391",
+    "issue_date": "2024-03-04",
+    "document_type": "380",
+    "invoice_lines": [
+        {
+            "item": {
+                "name": "DJ Tiger Stripes 8/3"
+            },
+            "price": {
+                "amount": "20000.00"
+            },
+            "line_extension_amount": "20000.00"
+        }
+    ],
+    "supplier_reference": "Bojan Planincic",
+    "legal_monetary_total": {
+        "tax_amount": "5000.00",
+        "payable_amount": "25000.00",
+        "line_extension_amount": "20000.00"
+    }
+}
