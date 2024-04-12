@@ -17,11 +17,11 @@
         "financial_accounts": [
             {
                 "id": "391-3936",
-                "type": "BANKGIRO"
+                "type": "Bankgiro"
             },
             {
                 "id": "66 14 95-2",
-                "type": "PLUSGIRO"
+                "type": "Plusgiro"
             }
         ]
     },

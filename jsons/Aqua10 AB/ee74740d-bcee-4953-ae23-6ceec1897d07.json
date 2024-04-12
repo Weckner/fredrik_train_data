@@ -3,7 +3,6 @@
         "web": "www.aqua10.se",
         "email": "mikaela@aqua10.com",
         "org_id": "559000-4015",
-        "vat_id": "",
         "address": {
             "address_line": "Aqua10 AB",
             "street": "Engelbrektsgatan 21",
@@ -84,6 +83,7 @@
     "buyer_reference": "Guadalupe Banegas",
     "supplier_reference": "Lukas Fagerlind",
     "legal_monetary_total": {
+        "tax_amount": "765.85",
         "payable_amount": "6705.00",
         "tax_exclusive_amount": "5940.40",
         "payable_rounding_amount": "-0.25"

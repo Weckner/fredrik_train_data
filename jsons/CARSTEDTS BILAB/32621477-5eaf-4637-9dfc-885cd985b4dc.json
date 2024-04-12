@@ -14,11 +14,11 @@
         "financial_accounts": [
             {
                 "id": "188-4725",
-                "type": "BANKGIRO"
+                "type": "Bankgiro"
             },
             {
                 "id": "46 17 35-3",
-                "type": "POSTGIRO"
+                "type": "Postgiro"
             }
         ]
     },

@@ -2,7 +2,6 @@
     "payee": {
         "web": "www.alcolock.se",
         "email": "info@alcolock.se",
-        "org_id": "",
         "vat_id": "SE556546750201",
         "address": {
             "address_line": "ALCOLOCK Sverige AB",

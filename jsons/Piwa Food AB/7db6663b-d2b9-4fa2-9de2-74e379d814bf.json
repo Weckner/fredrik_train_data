@@ -15,7 +15,7 @@
         "financial_accounts": [
             {
                 "id": "888-5980",
-                "type": "Bg"
+                "type": "Bankgiro"
             }
         ]
     },

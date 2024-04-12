@@ -13,11 +13,8 @@
         "financial_accounts": [
             {
                 "id": "DE70 5054 0028 0428 9278 00",
-                "type": "IBAN"
-            },
-            {
-                "id": "COBA DE FF XXX",
-                "type": "BIC"
+                "type": "IBAN",
+                "additional_id": "COBA DE FF XXX"
             }
         ]
     },

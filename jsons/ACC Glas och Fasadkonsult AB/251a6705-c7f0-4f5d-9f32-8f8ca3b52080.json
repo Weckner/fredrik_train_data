@@ -89,6 +89,9 @@
         }
     ],
     "buyer_reference": "Gustavo Catenacc",
+    "order_reference": {
+        "sales_order_id": "Projektbenämning 691.026 - Under bron, Slussen"
+    },
     "supplier_reference": "Olivier de Rooij",
     "legal_monetary_total": {
         "tax_amount": "14407.50",

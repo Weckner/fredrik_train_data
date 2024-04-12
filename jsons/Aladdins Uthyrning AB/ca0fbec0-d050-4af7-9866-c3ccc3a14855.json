@@ -166,7 +166,7 @@
         "tax_amount": "1310.00",
         "payable_amount": "6550.00",
         "tax_exclusive_amount": "5240.98",
-        "payable_rounding_amount": ""
+        "payable_rounding_amount": "-0.39"
     },
     "document_currency_code": "SEK"
 }
